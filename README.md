@@ -37,8 +37,7 @@ Dataset informasi detail fakultas dan program studi
 ## 🌐 Akses Dashboard
 
 Dashboard dapat diakses secara online melalui:
-
-🔗 **[Live Demo Dashboard](hhttps://university-dashboard-rezka.streamlit.app/)**
+🔗 hhttps://university-dashboard-rezka.streamlit.app/
 
 ---
 
