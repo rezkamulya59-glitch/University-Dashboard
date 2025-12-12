@@ -1,0 +1,37 @@
+faculty,year,num_students,avg_gpa,graduation_rate
+Fakultas Ilmu Komputer,2018,149,2.67,0.74
+Fakultas Ilmu Komputer,2019,93,3.15,0.89
+Fakultas Ilmu Komputer,2020,87,3.47,0.84
+Fakultas Ilmu Komputer,2021,139,3.32,0.94
+Fakultas Ilmu Komputer,2022,88,2.73,0.81
+Fakultas Ilmu Komputer,2023,88,3.02,0.92
+Fakultas Ekonomi,2018,111,2.86,0.9
+Fakultas Ekonomi,2019,139,3.02,0.92
+Fakultas Ekonomi,2020,87,3.43,0.77
+Fakultas Ekonomi,2021,87,3.28,0.71
+Fakultas Ekonomi,2022,102,3.09,0.72
+Fakultas Ekonomi,2023,99,2.84,0.73
+Fakultas Hukum,2018,90,3.39,0.85
+Fakultas Hukum,2019,101,3.08,0.72
+Fakultas Hukum,2020,84,3.33,0.87
+Fakultas Hukum,2021,82,2.71,0.86
+Fakultas Hukum,2022,90,2.72,0.7
+Fakultas Hukum,2023,130,3.14,0.75
+Fakultas Teknik,2018,103,3.01,0.85
+Fakultas Teknik,2019,119,3.13,0.82
+Fakultas Teknik,2020,84,3.29,0.84
+Fakultas Teknik,2021,127,2.91,0.73
+Fakultas Teknik,2022,144,2.84,0.92
+Fakultas Teknik,2023,108,2.93,0.73
+Fakultas Sastra,2018,122,2.5,0.83
+Fakultas Sastra,2019,108,2.65,0.93
+Fakultas Sastra,2020,141,3.32,0.78
+Fakultas Sastra,2021,93,2.96,0.81
+Fakultas Sastra,2022,108,2.97,0.8
+Fakultas Sastra,2023,139,2.78,0.84
+Fakultas Kedokteran,2018,86,2.56,0.77
+Fakultas Kedokteran,2019,136,3.15,0.88
+Fakultas Kedokteran,2020,103,3.02,0.86
+Fakultas Kedokteran,2021,93,3.17,0.93
+Fakultas Kedokteran,2022,113,3.37,0.74
+Fakultas Kedokteran,2023,145,3.02,0.72

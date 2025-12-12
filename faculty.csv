@@ -1,0 +1,51 @@
+faculty_id,name,department,position,publications,years_experience
+FAC001,Faculty_1,Teknik Elektro,Professor,5,12
+FAC002,Faculty_2,Sistem Informasi,Assistant Professor,1,17
+FAC003,Faculty_3,Manajemen,Lecturer,4,18
+FAC004,Faculty_4,Teknik Informatika,Lecturer,5,11
+FAC005,Faculty_5,Ilmu Hukum,Lecturer,8,12
+FAC006,Faculty_6,Ilmu Hukum,Lecturer,4,18
+FAC007,Faculty_7,Sistem Informasi,Lecturer,7,20
+FAC008,Faculty_8,Ilmu Hukum,Associate Professor,6,13
+FAC009,Faculty_9,Ilmu Hukum,Associate Professor,3,16
+FAC010,Faculty_10,Ilmu Hukum,Lecturer,8,9
+FAC011,Faculty_11,Sastra Inggris,Lecturer,3,3
+FAC012,Faculty_12,Teknik Informatika,Assistant Professor,4,16
+FAC013,Faculty_13,Ilmu Hukum,Lecturer,5,12
+FAC014,Faculty_14,Teknik Informatika,Associate Professor,6,1
+FAC015,Faculty_15,Sastra Inggris,Assistant Professor,4,25
+FAC016,Faculty_16,Ilmu Hukum,Assistant Professor,4,11
+FAC017,Faculty_17,Teknik Elektro,Lecturer,6,20
+FAC018,Faculty_18,Akuntansi,Associate Professor,3,20
+FAC019,Faculty_19,Ilmu Hukum,Assistant Professor,3,19
+FAC020,Faculty_20,Sastra Inggris,Lecturer,2,26
+FAC021,Faculty_21,Manajemen,Assistant Professor,7,17
+FAC022,Faculty_22,Teknik Elektro,Associate Professor,4,24
+FAC023,Faculty_23,Sastra Inggris,Lecturer,6,12
+FAC024,Faculty_24,Sastra Inggris,Associate Professor,3,18
+FAC025,Faculty_25,Akuntansi,Lecturer,4,14
+FAC026,Faculty_26,Teknik Informatika,Lecturer,5,9
+FAC027,Faculty_27,Manajemen,Lecturer,3,3
+FAC028,Faculty_28,Sistem Informasi,Professor,7,20
+FAC029,Faculty_29,Akuntansi,Professor,6,19
+FAC030,Faculty_30,Manajemen,Associate Professor,3,25
+FAC031,Faculty_31,Teknik Elektro,Assistant Professor,4,5
+FAC032,Faculty_32,Ilmu Hukum,Assistant Professor,7,9
+FAC033,Faculty_33,Teknik Informatika,Lecturer,8,22
+FAC034,Faculty_34,Sistem Informasi,Lecturer,6,29
+FAC035,Faculty_35,Ilmu Hukum,Assistant Professor,0,15
+FAC036,Faculty_36,Teknik Informatika,Lecturer,4,13
+FAC037,Faculty_37,Manajemen,Assistant Professor,7,18
+FAC038,Faculty_38,Manajemen,Lecturer,5,28
+FAC039,Faculty_39,Kedokteran,Assistant Professor,5,27
+FAC040,Faculty_40,Kedokteran,Associate Professor,6,28
+FAC041,Faculty_41,Teknik Informatika,Assistant Professor,3,13
+FAC042,Faculty_42,Kedokteran,Assistant Professor,2,16
+FAC043,Faculty_43,Teknik Informatika,Lecturer,5,14
+FAC044,Faculty_44,Sastra Inggris,Lecturer,6,5
+FAC045,Faculty_45,Teknik Elektro,Assistant Professor,6,21
+FAC046,Faculty_46,Teknik Elektro,Assistant Professor,5,29
+FAC047,Faculty_47,Sastra Inggris,Professor,1,24
+FAC048,Faculty_48,Teknik Informatika,Associate Professor,6,13
+FAC049,Faculty_49,Sistem Informasi,Assistant Professor,3,14
+FAC050,Faculty_50,Kedokteran,Associate Professor,6,11

@@ -1,0 +1,1001 @@
+student_id,name,faculty,major,year_enrolled,current_year,gpa,status,scholarship,age,gender,city
+STUD0001,Student_1,Fakultas Teknik,Manajemen,2020,Freshman,2.85,Active,Academic,21,Male,Makassar
+STUD0002,Student_2,Fakultas Ekonomi,Teknik Informatika,2022,Freshman,3.65,Active,None,23,Female,Palembang
+STUD0003,Student_3,Fakultas Ilmu Komputer,Akuntansi,2020,Junior,3.72,Active,None,22,Female,Surabaya
+STUD0004,Student_4,Fakultas Kedokteran,Akuntansi,2020,Senior,3.52,Active,None,24,Female,Denpasar
+STUD0005,Student_5,Fakultas Teknik,Sistem Informasi,2022,Freshman,2.69,Active,Academic,23,Male,Palembang
+STUD0006,Student_6,Fakultas Kedokteran,Sastra Inggris,2019,Sophomore,2.77,Inactive,None,23,Male,Semarang
+STUD0007,Student_7,Fakultas Ilmu Komputer,Manajemen,2019,Senior,3.32,Active,None,19,Female,Yogyakarta
+STUD0008,Student_8,Fakultas Ilmu Komputer,Kedokteran,2019,Freshman,2.53,Inactive,None,21,Female,Yogyakarta
+STUD0009,Student_9,Fakultas Hukum,Teknik Elektro,2019,Senior,3.26,Active,None,24,Male,Surabaya
+STUD0010,Student_10,Fakultas Kedokteran,Sistem Informasi,2020,Freshman,3.27,Active,None,19,Male,Bandung
+STUD0011,Student_11,Fakultas Ilmu Komputer,Kedokteran,2018,Freshman,2.68,Inactive,None,20,Male,Banjarmasin
+STUD0012,Student_12,Fakultas Teknik,Ilmu Hukum,2018,Freshman,3.94,Active,Sports,22,Male,Semarang
+STUD0013,Student_13,Fakultas Teknik,Teknik Elektro,2023,Sophomore,2.27,Inactive,None,19,Female,Denpasar
+STUD0014,Student_14,Fakultas Ekonomi,Sastra Inggris,2021,Junior,2.91,Active,Academic,22,Female,Jakarta
+STUD0015,Student_15,Fakultas Hukum,Sistem Informasi,2019,Senior,3.49,Active,Need-based,21,Female,Semarang
+STUD0016,Student_16,Fakultas Sastra,Ilmu Hukum,2020,Junior,2.78,Active,None,21,Female,Medan
+STUD0017,Student_17,Fakultas Ilmu Komputer,Kedokteran,2023,Freshman,2.62,Active,None,18,Male,Medan
+STUD0018,Student_18,Fakultas Sastra,Sistem Informasi,2019,Junior,3.6,Active,None,20,Female,Palembang
+STUD0019,Student_19,Fakultas Ekonomi,Akuntansi,2023,Freshman,4.0,Active,None,23,Male,Palembang
+STUD0020,Student_20,Fakultas Ilmu Komputer,Akuntansi,2019,Senior,3.25,Active,None,21,Female,Surabaya
+STUD0021,Student_21,Fakultas Kedokteran,Teknik Elektro,2021,Junior,3.67,Active,None,23,Female,Yogyakarta
+STUD0022,Student_22,Fakultas Ekonomi,Ilmu Hukum,2022,Junior,3.03,Active,Need-based,21,Male,Makassar
+STUD0023,Student_23,Fakultas Sastra,Kedokteran,2020,Junior,2.77,Active,None,23,Male,Surabaya
+STUD0024,Student_24,Fakultas Ilmu Komputer,Teknik Elektro,2023,Freshman,3.63,Inactive,Need-based,24,Female,Semarang
+STUD0025,Student_25,Fakultas Hukum,Sistem Informasi,2019,Senior,2.55,Active,None,20,Female,Semarang
+STUD0026,Student_26,Fakultas Ilmu Komputer,Sastra Inggris,2021,Senior,3.24,Graduated,None,21,Male,Surabaya
+STUD0027,Student_27,Fakultas Hukum,Kedokteran,2021,Freshman,3.05,Active,None,21,Female,Semarang
+STUD0028,Student_28,Fakultas Hukum,Ilmu Hukum,2023,Junior,3.09,Graduated,None,22,Female,Banjarmasin
+STUD0029,Student_29,Fakultas Ekonomi,Ilmu Hukum,2021,Freshman,3.59,Active,Academic,20,Female,Denpasar
+STUD0030,Student_30,Fakultas Kedokteran,Akuntansi,2020,Junior,3.47,Active,None,20,Female,Banjarmasin
+STUD0031,Student_31,Fakultas Sastra,Teknik Informatika,2022,Sophomore,3.12,Active,None,21,Female,Semarang
+STUD0032,Student_32,Fakultas Kedokteran,Sastra Inggris,2022,Junior,2.88,Active,Academic,19,Female,Surabaya
+STUD0033,Student_33,Fakultas Kedokteran,Teknik Informatika,2020,Freshman,2.81,Active,None,23,Female,Yogyakarta
+STUD0034,Student_34,Fakultas Ilmu Komputer,Sistem Informasi,2018,Junior,3.37,Inactive,Need-based,21,Male,Jakarta
+STUD0035,Student_35,Fakultas Ekonomi,Manajemen,2021,Freshman,3.36,Active,None,24,Male,Palembang
+STUD0036,Student_36,Fakultas Kedokteran,Sistem Informasi,2020,Junior,2.12,Inactive,Need-based,21,Female,Medan
+STUD0037,Student_37,Fakultas Hukum,Kedokteran,2020,Freshman,2.97,Graduated,Sports,20,Male,Jakarta
+STUD0038,Student_38,Fakultas Hukum,Akuntansi,2021,Sophomore,3.38,Inactive,None,23,Male,Jakarta
+STUD0039,Student_39,Fakultas Sastra,Manajemen,2019,Junior,2.87,Inactive,Academic,20,Male,Makassar
+STUD0040,Student_40,Fakultas Hukum,Manajemen,2019,Freshman,1.97,Active,None,20,Male,Denpasar
+STUD0041,Student_41,Fakultas Ilmu Komputer,Teknik Elektro,2022,Freshman,3.49,Active,None,19,Female,Makassar
+STUD0042,Student_42,Fakultas Teknik,Akuntansi,2018,Sophomore,2.69,Active,Academic,18,Female,Jakarta
+STUD0043,Student_43,Fakultas Sastra,Akuntansi,2021,Senior,3.15,Inactive,Sports,20,Male,Bandung
+STUD0044,Student_44,Fakultas Ekonomi,Ilmu Hukum,2021,Freshman,3.59,Active,None,18,Male,Palembang
+STUD0045,Student_45,Fakultas Ekonomi,Teknik Informatika,2023,Freshman,2.92,Inactive,None,23,Female,Denpasar
+STUD0046,Student_46,Fakultas Kedokteran,Kedokteran,2018,Sophomore,3.69,Active,None,20,Female,Bandung
+STUD0047,Student_47,Fakultas Teknik,Ilmu Hukum,2023,Sophomore,2.89,Active,None,22,Male,Banjarmasin
+STUD0048,Student_48,Fakultas Hukum,Manajemen,2018,Senior,2.98,Active,None,21,Female,Jakarta
+STUD0049,Student_49,Fakultas Ilmu Komputer,Teknik Informatika,2022,Senior,2.54,Active,Need-based,18,Male,Semarang
+STUD0050,Student_50,Fakultas Kedokteran,Teknik Informatika,2021,Sophomore,3.02,Graduated,None,19,Male,Bandung
+STUD0051,Student_51,Fakultas Ekonomi,Sastra Inggris,2019,Sophomore,3.71,Inactive,None,18,Female,Denpasar
+STUD0052,Student_52,Fakultas Ilmu Komputer,Ilmu Hukum,2022,Freshman,3.97,Active,None,21,Female,Palembang
+STUD0053,Student_53,Fakultas Ilmu Komputer,Ilmu Hukum,2019,Sophomore,3.13,Graduated,None,22,Male,Denpasar
+STUD0054,Student_54,Fakultas Hukum,Kedokteran,2022,Junior,2.15,Inactive,None,21,Male,Makassar
+STUD0055,Student_55,Fakultas Hukum,Sastra Inggris,2022,Junior,3.45,Active,None,18,Male,Semarang
+STUD0056,Student_56,Fakultas Teknik,Akuntansi,2018,Sophomore,3.04,Active,None,21,Female,Denpasar
+STUD0057,Student_57,Fakultas Hukum,Kedokteran,2018,Sophomore,3.41,Active,Need-based,20,Male,Yogyakarta
+STUD0058,Student_58,Fakultas Hukum,Teknik Elektro,2023,Sophomore,3.77,Active,Need-based,18,Male,Semarang
+STUD0059,Student_59,Fakultas Teknik,Sastra Inggris,2019,Senior,3.0,Inactive,None,23,Male,Jakarta
+STUD0060,Student_60,Fakultas Sastra,Teknik Informatika,2020,Sophomore,2.97,Active,None,19,Female,Jakarta
+STUD0061,Student_61,Fakultas Sastra,Sastra Inggris,2022,Freshman,3.06,Active,None,22,Female,Medan
+STUD0062,Student_62,Fakultas Teknik,Sistem Informasi,2022,Freshman,3.14,Active,None,21,Female,Denpasar
+STUD0063,Student_63,Fakultas Ekonomi,Akuntansi,2019,Sophomore,3.26,Graduated,None,20,Female,Palembang
+STUD0064,Student_64,Fakultas Kedokteran,Kedokteran,2018,Junior,3.33,Active,Academic,20,Male,Medan
+STUD0065,Student_65,Fakultas Ekonomi,Teknik Informatika,2020,Senior,2.04,Active,None,20,Male,Makassar
+STUD0066,Student_66,Fakultas Kedokteran,Manajemen,2019,Freshman,2.14,Active,None,23,Male,Semarang
+STUD0067,Student_67,Fakultas Teknik,Akuntansi,2019,Senior,2.79,Active,None,24,Male,Yogyakarta
+STUD0068,Student_68,Fakultas Kedokteran,Manajemen,2023,Sophomore,2.78,Active,None,19,Female,Surabaya
+STUD0069,Student_69,Fakultas Ekonomi,Akuntansi,2022,Junior,3.65,Active,None,21,Female,Banjarmasin
+STUD0070,Student_70,Fakultas Teknik,Ilmu Hukum,2019,Junior,2.54,Active,Need-based,21,Female,Semarang
+STUD0071,Student_71,Fakultas Ekonomi,Teknik Informatika,2023,Sophomore,3.3,Active,Academic,19,Male,Banjarmasin
+STUD0072,Student_72,Fakultas Hukum,Kedokteran,2022,Sophomore,2.77,Active,Need-based,24,Male,Makassar
+STUD0073,Student_73,Fakultas Sastra,Kedokteran,2018,Freshman,2.96,Active,Need-based,24,Male,Medan
+STUD0074,Student_74,Fakultas Hukum,Kedokteran,2022,Senior,2.55,Active,None,19,Female,Semarang
+STUD0075,Student_75,Fakultas Teknik,Sistem Informasi,2018,Senior,3.58,Active,None,19,Female,Bandung
+STUD0076,Student_76,Fakultas Sastra,Manajemen,2023,Sophomore,3.54,Active,Need-based,23,Female,Palembang
+STUD0077,Student_77,Fakultas Sastra,Teknik Elektro,2019,Freshman,2.55,Active,Academic,18,Female,Medan
+STUD0078,Student_78,Fakultas Hukum,Ilmu Hukum,2019,Sophomore,3.42,Inactive,None,20,Female,Bandung
+STUD0079,Student_79,Fakultas Teknik,Manajemen,2020,Sophomore,3.24,Active,None,23,Male,Bandung
+STUD0080,Student_80,Fakultas Ilmu Komputer,Ilmu Hukum,2021,Junior,2.05,Graduated,None,24,Male,Denpasar
+STUD0081,Student_81,Fakultas Kedokteran,Sastra Inggris,2019,Junior,2.95,Active,None,23,Female,Semarang
+STUD0082,Student_82,Fakultas Ekonomi,Akuntansi,2021,Senior,2.71,Active,None,24,Male,Yogyakarta
+STUD0083,Student_83,Fakultas Kedokteran,Sastra Inggris,2020,Freshman,3.27,Active,None,19,Female,Makassar
+STUD0084,Student_84,Fakultas Ekonomi,Teknik Informatika,2023,Sophomore,3.85,Inactive,None,22,Female,Bandung
+STUD0085,Student_85,Fakultas Kedokteran,Akuntansi,2022,Freshman,3.45,Active,Academic,24,Male,Jakarta
+STUD0086,Student_86,Fakultas Ilmu Komputer,Sastra Inggris,2018,Sophomore,4.0,Active,None,24,Female,Denpasar
+STUD0087,Student_87,Fakultas Kedokteran,Sastra Inggris,2020,Sophomore,2.58,Graduated,None,18,Female,Surabaya
+STUD0088,Student_88,Fakultas Ilmu Komputer,Manajemen,2022,Freshman,2.34,Active,None,20,Female,Yogyakarta
+STUD0089,Student_89,Fakultas Kedokteran,Kedokteran,2019,Junior,2.6,Active,None,18,Male,Jakarta
+STUD0090,Student_90,Fakultas Teknik,Sastra Inggris,2018,Junior,2.73,Active,None,24,Male,Makassar
+STUD0091,Student_91,Fakultas Kedokteran,Ilmu Hukum,2020,Freshman,3.12,Active,Academic,21,Male,Surabaya
+STUD0092,Student_92,Fakultas Kedokteran,Ilmu Hukum,2022,Senior,3.18,Active,None,22,Male,Semarang
+STUD0093,Student_93,Fakultas Ekonomi,Manajemen,2019,Sophomore,2.77,Graduated,Academic,23,Female,Banjarmasin
+STUD0094,Student_94,Fakultas Hukum,Teknik Informatika,2023,Junior,3.24,Active,None,18,Female,Surabaya
+STUD0095,Student_95,Fakultas Ilmu Komputer,Sistem Informasi,2019,Freshman,2.96,Active,Need-based,21,Female,Semarang
+STUD0096,Student_96,Fakultas Hukum,Teknik Elektro,2020,Freshman,2.94,Active,None,23,Female,Bandung
+STUD0097,Student_97,Fakultas Hukum,Sastra Inggris,2021,Senior,2.67,Active,None,18,Male,Denpasar
+STUD0098,Student_98,Fakultas Ekonomi,Sastra Inggris,2022,Sophomore,2.21,Active,None,24,Female,Yogyakarta
+STUD0099,Student_99,Fakultas Hukum,Teknik Informatika,2023,Sophomore,3.58,Active,None,20,Male,Bandung
+STUD0100,Student_100,Fakultas Ekonomi,Kedokteran,2023,Junior,2.75,Active,None,22,Male,Semarang
+STUD0101,Student_101,Fakultas Sastra,Ilmu Hukum,2019,Freshman,3.4,Active,Academic,24,Male,Denpasar
+STUD0102,Student_102,Fakultas Hukum,Teknik Elektro,2019,Junior,3.38,Active,Academic,24,Male,Palembang
+STUD0103,Student_103,Fakultas Hukum,Teknik Elektro,2023,Sophomore,2.98,Active,None,18,Female,Medan
+STUD0104,Student_104,Fakultas Hukum,Teknik Elektro,2023,Junior,3.28,Active,None,20,Female,Banjarmasin
+STUD0105,Student_105,Fakultas Kedokteran,Ilmu Hukum,2021,Freshman,2.38,Active,None,18,Male,Surabaya
+STUD0106,Student_106,Fakultas Sastra,Teknik Elektro,2021,Freshman,3.92,Active,None,24,Male,Jakarta
+STUD0107,Student_107,Fakultas Ekonomi,Kedokteran,2018,Sophomore,2.59,Active,Sports,24,Female,Denpasar
+STUD0108,Student_108,Fakultas Kedokteran,Teknik Informatika,2022,Senior,3.1,Active,Academic,18,Male,Yogyakarta
+STUD0109,Student_109,Fakultas Kedokteran,Akuntansi,2023,Sophomore,2.91,Inactive,None,22,Male,Surabaya
+STUD0110,Student_110,Fakultas Ilmu Komputer,Teknik Informatika,2021,Sophomore,3.56,Active,Sports,22,Male,Banjarmasin
+STUD0111,Student_111,Fakultas Teknik,Ilmu Hukum,2023,Freshman,3.31,Active,None,22,Female,Makassar
+STUD0112,Student_112,Fakultas Teknik,Sastra Inggris,2022,Junior,2.42,Active,None,23,Male,Bandung
+STUD0113,Student_113,Fakultas Ilmu Komputer,Teknik Elektro,2020,Freshman,2.45,Active,None,20,Female,Bandung
+STUD0114,Student_114,Fakultas Sastra,Sastra Inggris,2021,Sophomore,3.07,Active,Need-based,24,Female,Yogyakarta
+STUD0115,Student_115,Fakultas Kedokteran,Sistem Informasi,2019,Sophomore,3.1,Active,Sports,21,Female,Denpasar
+STUD0116,Student_116,Fakultas Ilmu Komputer,Manajemen,2018,Freshman,2.12,Active,None,18,Female,Yogyakarta
+STUD0117,Student_117,Fakultas Kedokteran,Teknik Elektro,2019,Senior,3.15,Active,None,21,Male,Denpasar
+STUD0118,Student_118,Fakultas Ilmu Komputer,Ilmu Hukum,2020,Sophomore,3.17,Active,None,22,Female,Denpasar
+STUD0119,Student_119,Fakultas Sastra,Kedokteran,2020,Freshman,2.97,Active,None,20,Female,Medan
+STUD0120,Student_120,Fakultas Kedokteran,Teknik Elektro,2020,Sophomore,2.77,Active,None,22,Male,Surabaya
+STUD0121,Student_121,Fakultas Teknik,Akuntansi,2022,Freshman,2.57,Active,None,23,Female,Palembang
+STUD0122,Student_122,Fakultas Kedokteran,Sistem Informasi,2021,Junior,2.31,Active,None,19,Male,Surabaya
+STUD0123,Student_123,Fakultas Kedokteran,Teknik Informatika,2023,Freshman,3.03,Active,None,22,Female,Bandung
+STUD0124,Student_124,Fakultas Sastra,Sastra Inggris,2019,Freshman,2.16,Active,Academic,19,Male,Makassar
+STUD0125,Student_125,Fakultas Kedokteran,Akuntansi,2023,Sophomore,3.06,Active,None,18,Male,Semarang
+STUD0126,Student_126,Fakultas Kedokteran,Teknik Elektro,2022,Senior,3.36,Active,Academic,24,Female,Banjarmasin
+STUD0127,Student_127,Fakultas Hukum,Akuntansi,2021,Junior,3.03,Active,Need-based,20,Male,Denpasar
+STUD0128,Student_128,Fakultas Ilmu Komputer,Teknik Elektro,2020,Senior,3.82,Inactive,Academic,20,Female,Semarang
+STUD0129,Student_129,Fakultas Sastra,Sastra Inggris,2020,Sophomore,3.5,Active,None,18,Female,Yogyakarta
+STUD0130,Student_130,Fakultas Sastra,Kedokteran,2020,Senior,3.34,Inactive,None,22,Male,Yogyakarta
+STUD0131,Student_131,Fakultas Kedokteran,Akuntansi,2019,Senior,3.45,Active,Need-based,22,Male,Palembang
+STUD0132,Student_132,Fakultas Sastra,Ilmu Hukum,2022,Freshman,2.76,Active,Sports,19,Male,Semarang
+STUD0133,Student_133,Fakultas Ilmu Komputer,Teknik Informatika,2021,Senior,3.75,Active,None,20,Female,Palembang
+STUD0134,Student_134,Fakultas Hukum,Sistem Informasi,2020,Junior,2.77,Active,Need-based,22,Male,Palembang
+STUD0135,Student_135,Fakultas Kedokteran,Sistem Informasi,2022,Junior,3.33,Active,None,24,Male,Denpasar
+STUD0136,Student_136,Fakultas Teknik,Teknik Elektro,2018,Junior,3.92,Active,None,18,Male,Semarang
+STUD0137,Student_137,Fakultas Kedokteran,Sastra Inggris,2022,Junior,3.42,Active,None,19,Male,Medan
+STUD0138,Student_138,Fakultas Sastra,Akuntansi,2019,Sophomore,2.99,Active,Academic,24,Female,Semarang
+STUD0139,Student_139,Fakultas Ekonomi,Teknik Elektro,2021,Junior,3.4,Active,Sports,23,Female,Bandung
+STUD0140,Student_140,Fakultas Kedokteran,Sastra Inggris,2023,Senior,3.9,Active,Need-based,20,Female,Palembang
+STUD0141,Student_141,Fakultas Ekonomi,Kedokteran,2018,Junior,2.61,Active,None,22,Male,Makassar
+STUD0142,Student_142,Fakultas Ilmu Komputer,Sastra Inggris,2019,Sophomore,4.0,Active,None,18,Female,Bandung
+STUD0143,Student_143,Fakultas Teknik,Teknik Elektro,2018,Junior,3.83,Graduated,Academic,18,Female,Medan
+STUD0144,Student_144,Fakultas Ilmu Komputer,Akuntansi,2020,Freshman,2.69,Inactive,Academic,24,Male,Denpasar
+STUD0145,Student_145,Fakultas Ekonomi,Teknik Elektro,2021,Senior,3.31,Active,Academic,19,Male,Yogyakarta
+STUD0146,Student_146,Fakultas Ilmu Komputer,Sastra Inggris,2023,Junior,2.09,Graduated,None,22,Female,Surabaya
+STUD0147,Student_147,Fakultas Sastra,Ilmu Hukum,2023,Freshman,3.24,Active,None,21,Female,Banjarmasin
+STUD0148,Student_148,Fakultas Ilmu Komputer,Teknik Elektro,2019,Junior,3.08,Graduated,None,18,Male,Semarang
+STUD0149,Student_149,Fakultas Kedokteran,Akuntansi,2022,Sophomore,2.46,Inactive,None,20,Male,Banjarmasin
+STUD0150,Student_150,Fakultas Sastra,Kedokteran,2021,Sophomore,3.0,Active,None,22,Male,Bandung
+STUD0151,Student_151,Fakultas Sastra,Teknik Informatika,2022,Senior,2.65,Active,None,20,Male,Medan
+STUD0152,Student_152,Fakultas Hukum,Manajemen,2018,Junior,2.6,Active,Need-based,24,Female,Yogyakarta
+STUD0153,Student_153,Fakultas Hukum,Kedokteran,2019,Junior,3.4,Active,Sports,19,Female,Denpasar
+STUD0154,Student_154,Fakultas Teknik,Sistem Informasi,2018,Freshman,3.87,Active,Sports,19,Male,Bandung
+STUD0155,Student_155,Fakultas Kedokteran,Sastra Inggris,2022,Freshman,2.77,Active,Need-based,20,Male,Palembang
+STUD0156,Student_156,Fakultas Teknik,Teknik Informatika,2023,Sophomore,2.55,Active,Need-based,18,Female,Banjarmasin
+STUD0157,Student_157,Fakultas Ekonomi,Kedokteran,2023,Freshman,2.81,Inactive,None,23,Female,Semarang
+STUD0158,Student_158,Fakultas Ilmu Komputer,Kedokteran,2019,Junior,3.9,Active,None,21,Male,Bandung
+STUD0159,Student_159,Fakultas Kedokteran,Teknik Elektro,2023,Sophomore,2.76,Active,None,21,Female,Makassar
+STUD0160,Student_160,Fakultas Kedokteran,Kedokteran,2022,Senior,3.46,Inactive,None,24,Female,Bandung
+STUD0161,Student_161,Fakultas Ekonomi,Kedokteran,2019,Freshman,2.65,Graduated,None,18,Male,Palembang
+STUD0162,Student_162,Fakultas Ilmu Komputer,Sistem Informasi,2023,Sophomore,3.52,Active,None,19,Male,Palembang
+STUD0163,Student_163,Fakultas Sastra,Teknik Informatika,2020,Freshman,2.94,Active,None,19,Male,Medan
+STUD0164,Student_164,Fakultas Sastra,Ilmu Hukum,2019,Senior,1.76,Active,None,18,Female,Semarang
+STUD0165,Student_165,Fakultas Ilmu Komputer,Akuntansi,2023,Sophomore,3.84,Active,None,19,Female,Banjarmasin
+STUD0166,Student_166,Fakultas Teknik,Sastra Inggris,2023,Junior,3.69,Active,None,21,Male,Surabaya
+STUD0167,Student_167,Fakultas Sastra,Ilmu Hukum,2022,Freshman,1.94,Graduated,Need-based,19,Male,Semarang
+STUD0168,Student_168,Fakultas Sastra,Teknik Elektro,2021,Sophomore,3.6,Active,None,23,Male,Jakarta
+STUD0169,Student_169,Fakultas Hukum,Manajemen,2019,Senior,2.87,Active,Need-based,20,Female,Surabaya
+STUD0170,Student_170,Fakultas Hukum,Manajemen,2021,Sophomore,3.38,Graduated,None,18,Male,Palembang
+STUD0171,Student_171,Fakultas Ekonomi,Teknik Elektro,2023,Freshman,2.67,Graduated,None,21,Male,Semarang
+STUD0172,Student_172,Fakultas Sastra,Sistem Informasi,2020,Junior,2.1,Active,None,24,Female,Yogyakarta
+STUD0173,Student_173,Fakultas Teknik,Teknik Informatika,2023,Freshman,3.05,Active,None,22,Male,Medan
+STUD0174,Student_174,Fakultas Ekonomi,Teknik Informatika,2019,Junior,3.62,Active,None,22,Male,Yogyakarta
+STUD0175,Student_175,Fakultas Kedokteran,Teknik Elektro,2022,Sophomore,3.07,Active,None,19,Male,Surabaya
+STUD0176,Student_176,Fakultas Hukum,Akuntansi,2019,Freshman,4.0,Inactive,Need-based,24,Female,Palembang
+STUD0177,Student_177,Fakultas Ekonomi,Manajemen,2018,Sophomore,2.92,Active,None,21,Male,Denpasar
+STUD0178,Student_178,Fakultas Hukum,Teknik Informatika,2022,Junior,2.87,Graduated,None,24,Male,Surabaya
+STUD0179,Student_179,Fakultas Ilmu Komputer,Sistem Informasi,2018,Senior,2.47,Active,Sports,18,Male,Semarang
+STUD0180,Student_180,Fakultas Hukum,Manajemen,2022,Sophomore,3.89,Active,None,19,Male,Medan
+STUD0181,Student_181,Fakultas Hukum,Kedokteran,2021,Freshman,3.56,Active,None,18,Male,Denpasar
+STUD0182,Student_182,Fakultas Hukum,Manajemen,2023,Senior,3.57,Active,Sports,21,Male,Denpasar
+STUD0183,Student_183,Fakultas Teknik,Teknik Elektro,2021,Junior,3.37,Active,None,22,Male,Jakarta
+STUD0184,Student_184,Fakultas Ilmu Komputer,Teknik Elektro,2023,Senior,3.67,Active,Need-based,19,Male,Banjarmasin
+STUD0185,Student_185,Fakultas Ilmu Komputer,Kedokteran,2018,Freshman,3.86,Active,None,21,Female,Jakarta
+STUD0186,Student_186,Fakultas Teknik,Sistem Informasi,2018,Junior,2.9,Inactive,Academic,21,Male,Semarang
+STUD0187,Student_187,Fakultas Ekonomi,Ilmu Hukum,2018,Senior,3.13,Active,Academic,21,Female,Makassar
+STUD0188,Student_188,Fakultas Kedokteran,Sastra Inggris,2018,Sophomore,2.62,Inactive,None,22,Female,Palembang
+STUD0189,Student_189,Fakultas Sastra,Sistem Informasi,2020,Senior,1.85,Inactive,Need-based,20,Male,Jakarta
+STUD0190,Student_190,Fakultas Ilmu Komputer,Teknik Elektro,2021,Senior,2.76,Active,None,20,Female,Surabaya
+STUD0191,Student_191,Fakultas Kedokteran,Kedokteran,2022,Sophomore,2.41,Active,None,18,Female,Medan
+STUD0192,Student_192,Fakultas Teknik,Kedokteran,2018,Senior,2.46,Active,None,24,Male,Yogyakarta
+STUD0193,Student_193,Fakultas Hukum,Teknik Informatika,2021,Junior,2.94,Active,None,19,Male,Yogyakarta
+STUD0194,Student_194,Fakultas Ekonomi,Sastra Inggris,2023,Senior,2.02,Inactive,Academic,21,Female,Makassar
+STUD0195,Student_195,Fakultas Teknik,Akuntansi,2021,Junior,2.74,Active,Sports,18,Female,Jakarta
+STUD0196,Student_196,Fakultas Hukum,Teknik Informatika,2023,Sophomore,2.66,Graduated,None,18,Male,Banjarmasin
+STUD0197,Student_197,Fakultas Ekonomi,Ilmu Hukum,2018,Freshman,2.68,Active,None,23,Female,Denpasar
+STUD0198,Student_198,Fakultas Sastra,Teknik Elektro,2021,Sophomore,3.27,Inactive,Need-based,22,Male,Semarang
+STUD0199,Student_199,Fakultas Hukum,Akuntansi,2021,Freshman,3.34,Active,None,19,Female,Banjarmasin
+STUD0200,Student_200,Fakultas Ekonomi,Manajemen,2019,Sophomore,2.64,Inactive,None,19,Male,Bandung
+STUD0201,Student_201,Fakultas Hukum,Sastra Inggris,2018,Sophomore,4.0,Active,None,21,Female,Banjarmasin
+STUD0202,Student_202,Fakultas Ilmu Komputer,Ilmu Hukum,2021,Junior,3.8,Active,None,24,Female,Medan
+STUD0203,Student_203,Fakultas Ekonomi,Teknik Informatika,2019,Senior,3.5,Active,Sports,24,Female,Bandung
+STUD0204,Student_204,Fakultas Sastra,Akuntansi,2020,Freshman,2.78,Active,Need-based,21,Male,Medan
+STUD0205,Student_205,Fakultas Ilmu Komputer,Kedokteran,2018,Junior,2.85,Inactive,None,22,Female,Yogyakarta
+STUD0206,Student_206,Fakultas Ilmu Komputer,Sistem Informasi,2018,Senior,3.38,Active,None,24,Male,Bandung
+STUD0207,Student_207,Fakultas Kedokteran,Akuntansi,2023,Junior,3.88,Active,None,21,Male,Banjarmasin
+STUD0208,Student_208,Fakultas Hukum,Ilmu Hukum,2021,Freshman,3.16,Active,None,20,Female,Denpasar
+STUD0209,Student_209,Fakultas Ekonomi,Sastra Inggris,2021,Junior,2.41,Active,Need-based,21,Female,Palembang
+STUD0210,Student_210,Fakultas Kedokteran,Teknik Informatika,2021,Senior,2.97,Active,None,21,Male,Makassar
+STUD0211,Student_211,Fakultas Hukum,Sastra Inggris,2020,Freshman,3.07,Active,None,18,Female,Bandung
+STUD0212,Student_212,Fakultas Sastra,Kedokteran,2022,Freshman,2.56,Active,None,24,Male,Semarang
+STUD0213,Student_213,Fakultas Teknik,Ilmu Hukum,2022,Freshman,3.65,Active,None,24,Female,Makassar
+STUD0214,Student_214,Fakultas Ilmu Komputer,Sastra Inggris,2020,Freshman,2.31,Active,None,19,Female,Palembang
+STUD0215,Student_215,Fakultas Hukum,Ilmu Hukum,2021,Sophomore,3.28,Active,None,22,Male,Banjarmasin
+STUD0216,Student_216,Fakultas Hukum,Sistem Informasi,2020,Freshman,3.19,Graduated,None,18,Female,Bandung
+STUD0217,Student_217,Fakultas Kedokteran,Teknik Elektro,2020,Senior,3.44,Active,Academic,19,Female,Semarang
+STUD0218,Student_218,Fakultas Kedokteran,Ilmu Hukum,2021,Sophomore,3.45,Active,None,18,Female,Jakarta
+STUD0219,Student_219,Fakultas Sastra,Sastra Inggris,2021,Sophomore,1.86,Active,Need-based,20,Male,Semarang
+STUD0220,Student_220,Fakultas Sastra,Kedokteran,2018,Junior,2.78,Active,None,19,Female,Jakarta
+STUD0221,Student_221,Fakultas Hukum,Sistem Informasi,2018,Senior,3.28,Active,Need-based,18,Female,Medan
+STUD0222,Student_222,Fakultas Kedokteran,Teknik Informatika,2021,Junior,3.39,Graduated,Academic,22,Female,Makassar
+STUD0223,Student_223,Fakultas Ilmu Komputer,Manajemen,2021,Freshman,3.08,Active,Need-based,20,Male,Jakarta
+STUD0224,Student_224,Fakultas Teknik,Ilmu Hukum,2023,Freshman,3.38,Active,None,18,Male,Yogyakarta
+STUD0225,Student_225,Fakultas Teknik,Manajemen,2018,Junior,2.83,Active,None,23,Male,Medan
+STUD0226,Student_226,Fakultas Teknik,Akuntansi,2023,Senior,2.67,Active,None,20,Male,Yogyakarta
+STUD0227,Student_227,Fakultas Sastra,Teknik Elektro,2018,Senior,2.6,Active,None,21,Male,Yogyakarta
+STUD0228,Student_228,Fakultas Kedokteran,Sistem Informasi,2020,Senior,2.72,Active,None,22,Female,Semarang
+STUD0229,Student_229,Fakultas Kedokteran,Akuntansi,2019,Senior,2.98,Active,None,21,Female,Banjarmasin
+STUD0230,Student_230,Fakultas Kedokteran,Akuntansi,2020,Sophomore,3.17,Active,None,19,Male,Yogyakarta
+STUD0231,Student_231,Fakultas Sastra,Teknik Elektro,2020,Senior,2.97,Active,None,21,Female,Denpasar
+STUD0232,Student_232,Fakultas Kedokteran,Teknik Elektro,2022,Freshman,3.12,Inactive,None,20,Male,Palembang
+STUD0233,Student_233,Fakultas Hukum,Teknik Informatika,2020,Junior,2.2,Graduated,None,22,Female,Surabaya
+STUD0234,Student_234,Fakultas Teknik,Kedokteran,2023,Freshman,2.56,Active,None,22,Male,Bandung
+STUD0235,Student_235,Fakultas Sastra,Sastra Inggris,2022,Junior,3.02,Active,None,18,Female,Surabaya
+STUD0236,Student_236,Fakultas Ekonomi,Teknik Informatika,2022,Senior,3.54,Active,Academic,22,Male,Banjarmasin
+STUD0237,Student_237,Fakultas Kedokteran,Kedokteran,2021,Senior,3.62,Active,Academic,20,Male,Makassar
+STUD0238,Student_238,Fakultas Ilmu Komputer,Teknik Informatika,2018,Sophomore,3.01,Active,None,19,Male,Yogyakarta
+STUD0239,Student_239,Fakultas Hukum,Akuntansi,2022,Sophomore,1.67,Active,Need-based,18,Male,Denpasar
+STUD0240,Student_240,Fakultas Hukum,Manajemen,2022,Senior,3.33,Active,None,20,Male,Denpasar
+STUD0241,Student_241,Fakultas Sastra,Manajemen,2023,Senior,2.99,Inactive,None,22,Male,Surabaya
+STUD0242,Student_242,Fakultas Hukum,Sastra Inggris,2019,Junior,3.21,Active,None,19,Female,Makassar
+STUD0243,Student_243,Fakultas Sastra,Sistem Informasi,2023,Freshman,3.85,Active,None,20,Male,Makassar
+STUD0244,Student_244,Fakultas Hukum,Ilmu Hukum,2021,Freshman,3.05,Graduated,None,24,Male,Semarang
+STUD0245,Student_245,Fakultas Teknik,Sastra Inggris,2023,Junior,3.77,Active,None,18,Female,Palembang
+STUD0246,Student_246,Fakultas Kedokteran,Sastra Inggris,2021,Junior,3.74,Active,None,19,Male,Semarang
+STUD0247,Student_247,Fakultas Ilmu Komputer,Manajemen,2018,Senior,3.83,Active,None,20,Male,Makassar
+STUD0248,Student_248,Fakultas Teknik,Manajemen,2018,Senior,2.92,Active,Academic,20,Male,Medan
+STUD0249,Student_249,Fakultas Ekonomi,Manajemen,2019,Sophomore,3.09,Active,None,21,Female,Denpasar
+STUD0250,Student_250,Fakultas Kedokteran,Sastra Inggris,2018,Junior,2.94,Active,None,18,Male,Bandung
+STUD0251,Student_251,Fakultas Ilmu Komputer,Sistem Informasi,2022,Freshman,3.97,Active,None,20,Female,Makassar
+STUD0252,Student_252,Fakultas Ilmu Komputer,Kedokteran,2020,Senior,3.1,Active,Academic,22,Male,Bandung
+STUD0253,Student_253,Fakultas Ekonomi,Akuntansi,2020,Senior,3.71,Active,None,18,Male,Bandung
+STUD0254,Student_254,Fakultas Ekonomi,Teknik Elektro,2022,Sophomore,3.31,Active,None,18,Male,Jakarta
+STUD0255,Student_255,Fakultas Ekonomi,Ilmu Hukum,2018,Sophomore,3.55,Active,None,20,Male,Surabaya
+STUD0256,Student_256,Fakultas Kedokteran,Sastra Inggris,2020,Junior,3.51,Inactive,None,23,Female,Medan
+STUD0257,Student_257,Fakultas Teknik,Akuntansi,2020,Freshman,2.94,Active,Academic,23,Female,Semarang
+STUD0258,Student_258,Fakultas Ekonomi,Teknik Informatika,2021,Junior,3.47,Inactive,Academic,22,Female,Yogyakarta
+STUD0259,Student_259,Fakultas Ilmu Komputer,Sastra Inggris,2023,Freshman,3.11,Inactive,Sports,19,Male,Medan
+STUD0260,Student_260,Fakultas Ekonomi,Teknik Elektro,2022,Junior,4.0,Active,None,20,Female,Surabaya
+STUD0261,Student_261,Fakultas Teknik,Manajemen,2021,Senior,2.87,Active,Academic,20,Male,Makassar
+STUD0262,Student_262,Fakultas Ekonomi,Sastra Inggris,2018,Junior,2.91,Active,None,18,Male,Yogyakarta
+STUD0263,Student_263,Fakultas Ekonomi,Manajemen,2023,Sophomore,2.72,Active,Academic,20,Male,Medan
+STUD0264,Student_264,Fakultas Ekonomi,Manajemen,2020,Freshman,2.17,Active,None,24,Female,Medan
+STUD0265,Student_265,Fakultas Sastra,Kedokteran,2018,Junior,2.69,Active,None,24,Female,Surabaya
+STUD0266,Student_266,Fakultas Kedokteran,Kedokteran,2020,Sophomore,3.07,Active,None,21,Female,Bandung
+STUD0267,Student_267,Fakultas Hukum,Kedokteran,2019,Junior,2.17,Active,Sports,20,Male,Makassar
+STUD0268,Student_268,Fakultas Hukum,Akuntansi,2020,Sophomore,3.19,Active,None,23,Male,Yogyakarta
+STUD0269,Student_269,Fakultas Sastra,Sastra Inggris,2023,Senior,3.39,Graduated,Academic,22,Female,Medan
+STUD0270,Student_270,Fakultas Teknik,Teknik Elektro,2023,Sophomore,2.68,Active,None,24,Female,Semarang
+STUD0271,Student_271,Fakultas Ekonomi,Sastra Inggris,2022,Freshman,1.8,Active,Academic,19,Male,Denpasar
+STUD0272,Student_272,Fakultas Ekonomi,Akuntansi,2020,Sophomore,3.39,Active,None,18,Male,Medan
+STUD0273,Student_273,Fakultas Sastra,Akuntansi,2021,Senior,3.13,Active,Sports,19,Male,Medan
+STUD0274,Student_274,Fakultas Sastra,Sastra Inggris,2020,Sophomore,3.16,Active,Need-based,20,Female,Jakarta
+STUD0275,Student_275,Fakultas Ilmu Komputer,Teknik Informatika,2020,Sophomore,3.37,Active,Need-based,23,Male,Semarang
+STUD0276,Student_276,Fakultas Teknik,Sastra Inggris,2023,Freshman,2.94,Active,None,23,Male,Bandung
+STUD0277,Student_277,Fakultas Teknik,Akuntansi,2023,Junior,2.73,Active,None,24,Male,Jakarta
+STUD0278,Student_278,Fakultas Kedokteran,Teknik Elektro,2019,Senior,2.61,Active,None,22,Male,Palembang
+STUD0279,Student_279,Fakultas Kedokteran,Kedokteran,2019,Senior,2.87,Active,None,20,Female,Palembang
+STUD0280,Student_280,Fakultas Teknik,Akuntansi,2023,Freshman,2.96,Active,None,20,Female,Medan
+STUD0281,Student_281,Fakultas Kedokteran,Sastra Inggris,2019,Senior,3.23,Active,None,22,Female,Yogyakarta
+STUD0282,Student_282,Fakultas Ilmu Komputer,Akuntansi,2018,Freshman,3.07,Active,None,20,Female,Denpasar
+STUD0283,Student_283,Fakultas Teknik,Sistem Informasi,2019,Junior,4.0,Graduated,Sports,20,Male,Bandung
+STUD0284,Student_284,Fakultas Ilmu Komputer,Teknik Elektro,2019,Senior,2.27,Active,None,18,Female,Makassar
+STUD0285,Student_285,Fakultas Kedokteran,Teknik Elektro,2022,Freshman,2.85,Active,None,24,Female,Jakarta
+STUD0286,Student_286,Fakultas Ilmu Komputer,Sistem Informasi,2020,Senior,2.65,Active,Need-based,23,Female,Denpasar
+STUD0287,Student_287,Fakultas Ilmu Komputer,Teknik Informatika,2018,Freshman,2.55,Graduated,None,18,Male,Yogyakarta
+STUD0288,Student_288,Fakultas Teknik,Kedokteran,2019,Freshman,2.22,Active,None,23,Male,Palembang
+STUD0289,Student_289,Fakultas Teknik,Ilmu Hukum,2022,Freshman,3.31,Active,Sports,21,Female,Palembang
+STUD0290,Student_290,Fakultas Teknik,Sistem Informasi,2019,Sophomore,2.47,Active,Need-based,21,Male,Surabaya
+STUD0291,Student_291,Fakultas Kedokteran,Teknik Informatika,2018,Junior,2.3,Active,Academic,20,Male,Makassar
+STUD0292,Student_292,Fakultas Hukum,Teknik Informatika,2022,Sophomore,2.37,Active,None,21,Female,Medan
+STUD0293,Student_293,Fakultas Ekonomi,Teknik Informatika,2021,Senior,1.9,Active,None,18,Female,Makassar
+STUD0294,Student_294,Fakultas Kedokteran,Sistem Informasi,2023,Junior,2.15,Inactive,None,21,Female,Bandung
+STUD0295,Student_295,Fakultas Ilmu Komputer,Teknik Informatika,2018,Junior,2.69,Active,None,19,Female,Denpasar
+STUD0296,Student_296,Fakultas Sastra,Manajemen,2023,Junior,1.7,Active,None,24,Female,Medan
+STUD0297,Student_297,Fakultas Ekonomi,Kedokteran,2022,Junior,2.52,Active,None,23,Male,Banjarmasin
+STUD0298,Student_298,Fakultas Ilmu Komputer,Manajemen,2020,Senior,2.38,Active,None,20,Male,Surabaya
+STUD0299,Student_299,Fakultas Sastra,Manajemen,2022,Sophomore,3.25,Active,None,21,Male,Medan
+STUD0300,Student_300,Fakultas Hukum,Manajemen,2021,Sophomore,3.07,Active,None,18,Male,Denpasar
+STUD0301,Student_301,Fakultas Hukum,Kedokteran,2022,Freshman,2.58,Active,None,20,Female,Medan
+STUD0302,Student_302,Fakultas Ekonomi,Teknik Elektro,2020,Junior,3.82,Graduated,None,21,Female,Medan
+STUD0303,Student_303,Fakultas Ekonomi,Teknik Elektro,2022,Junior,2.58,Active,None,21,Male,Denpasar
+STUD0304,Student_304,Fakultas Ilmu Komputer,Teknik Elektro,2022,Freshman,2.88,Active,Academic,18,Female,Makassar
+STUD0305,Student_305,Fakultas Ilmu Komputer,Ilmu Hukum,2021,Senior,2.68,Active,None,21,Female,Yogyakarta
+STUD0306,Student_306,Fakultas Teknik,Ilmu Hukum,2018,Junior,3.04,Active,Academic,22,Male,Palembang
+STUD0307,Student_307,Fakultas Sastra,Kedokteran,2020,Sophomore,2.78,Active,Need-based,23,Female,Makassar
+STUD0308,Student_308,Fakultas Ekonomi,Teknik Elektro,2022,Sophomore,4.0,Active,None,24,Female,Medan
+STUD0309,Student_309,Fakultas Ekonomi,Manajemen,2019,Junior,2.3,Active,None,22,Female,Bandung
+STUD0310,Student_310,Fakultas Teknik,Teknik Elektro,2021,Freshman,3.19,Active,Need-based,20,Male,Semarang
+STUD0311,Student_311,Fakultas Sastra,Ilmu Hukum,2022,Freshman,2.6,Active,Academic,21,Female,Denpasar
+STUD0312,Student_312,Fakultas Kedokteran,Teknik Elektro,2020,Senior,3.74,Active,None,20,Male,Surabaya
+STUD0313,Student_313,Fakultas Ilmu Komputer,Teknik Informatika,2019,Junior,2.54,Active,None,19,Female,Jakarta
+STUD0314,Student_314,Fakultas Ilmu Komputer,Teknik Elektro,2021,Senior,2.8,Active,Academic,22,Male,Medan
+STUD0315,Student_315,Fakultas Ilmu Komputer,Teknik Informatika,2023,Freshman,3.75,Active,Need-based,22,Male,Palembang
+STUD0316,Student_316,Fakultas Ekonomi,Manajemen,2018,Senior,1.81,Active,None,23,Female,Makassar
+STUD0317,Student_317,Fakultas Sastra,Sastra Inggris,2023,Sophomore,3.74,Active,Academic,23,Male,Medan
+STUD0318,Student_318,Fakultas Teknik,Kedokteran,2018,Freshman,3.5,Active,Need-based,21,Female,Denpasar
+STUD0319,Student_319,Fakultas Kedokteran,Ilmu Hukum,2021,Freshman,2.97,Active,None,18,Male,Yogyakarta
+STUD0320,Student_320,Fakultas Hukum,Manajemen,2020,Junior,2.87,Active,Need-based,19,Male,Jakarta
+STUD0321,Student_321,Fakultas Ilmu Komputer,Sistem Informasi,2022,Senior,3.18,Active,None,24,Female,Denpasar
+STUD0322,Student_322,Fakultas Ilmu Komputer,Kedokteran,2023,Senior,3.81,Active,None,24,Male,Makassar
+STUD0323,Student_323,Fakultas Hukum,Sistem Informasi,2023,Junior,3.7,Active,Need-based,23,Male,Denpasar
+STUD0324,Student_324,Fakultas Ekonomi,Sastra Inggris,2018,Freshman,2.73,Active,None,18,Female,Denpasar
+STUD0325,Student_325,Fakultas Sastra,Kedokteran,2023,Junior,3.12,Graduated,None,19,Female,Palembang
+STUD0326,Student_326,Fakultas Hukum,Manajemen,2020,Junior,2.58,Inactive,None,21,Male,Surabaya
+STUD0327,Student_327,Fakultas Ilmu Komputer,Sistem Informasi,2022,Freshman,3.28,Active,None,23,Female,Banjarmasin
+STUD0328,Student_328,Fakultas Ekonomi,Sastra Inggris,2022,Freshman,2.65,Active,None,19,Female,Palembang
+STUD0329,Student_329,Fakultas Ilmu Komputer,Manajemen,2020,Sophomore,2.72,Active,Academic,22,Female,Yogyakarta
+STUD0330,Student_330,Fakultas Kedokteran,Sastra Inggris,2019,Senior,2.8,Active,Academic,19,Male,Makassar
+STUD0331,Student_331,Fakultas Sastra,Sastra Inggris,2019,Senior,2.87,Active,Academic,22,Male,Surabaya
+STUD0332,Student_332,Fakultas Kedokteran,Sistem Informasi,2023,Junior,3.55,Active,None,22,Male,Bandung
+STUD0333,Student_333,Fakultas Teknik,Teknik Informatika,2018,Freshman,3.18,Active,None,20,Male,Palembang
+STUD0334,Student_334,Fakultas Teknik,Ilmu Hukum,2022,Senior,3.8,Active,Academic,23,Male,Jakarta
+STUD0335,Student_335,Fakultas Ekonomi,Sistem Informasi,2018,Freshman,2.63,Active,None,24,Female,Bandung
+STUD0336,Student_336,Fakultas Teknik,Manajemen,2022,Sophomore,2.74,Active,Academic,19,Female,Jakarta
+STUD0337,Student_337,Fakultas Hukum,Teknik Informatika,2023,Junior,3.5,Active,None,21,Male,Makassar
+STUD0338,Student_338,Fakultas Kedokteran,Sastra Inggris,2022,Freshman,2.69,Active,Academic,23,Male,Yogyakarta
+STUD0339,Student_339,Fakultas Teknik,Akuntansi,2022,Senior,2.92,Active,Academic,21,Male,Palembang
+STUD0340,Student_340,Fakultas Ilmu Komputer,Sistem Informasi,2023,Sophomore,3.06,Active,None,19,Male,Semarang
+STUD0341,Student_341,Fakultas Teknik,Manajemen,2021,Junior,3.26,Inactive,None,23,Male,Jakarta
+STUD0342,Student_342,Fakultas Hukum,Kedokteran,2022,Junior,3.41,Active,None,20,Female,Makassar
+STUD0343,Student_343,Fakultas Ilmu Komputer,Sistem Informasi,2018,Freshman,3.14,Active,Sports,22,Male,Jakarta
+STUD0344,Student_344,Fakultas Kedokteran,Sistem Informasi,2020,Senior,2.81,Active,None,23,Male,Denpasar
+STUD0345,Student_345,Fakultas Kedokteran,Akuntansi,2021,Sophomore,2.89,Graduated,None,24,Male,Medan
+STUD0346,Student_346,Fakultas Hukum,Sistem Informasi,2021,Sophomore,1.82,Active,None,19,Female,Makassar
+STUD0347,Student_347,Fakultas Ilmu Komputer,Manajemen,2019,Senior,3.34,Active,None,19,Female,Medan
+STUD0348,Student_348,Fakultas Hukum,Teknik Informatika,2019,Senior,2.5,Active,None,21,Male,Makassar
+STUD0349,Student_349,Fakultas Ilmu Komputer,Teknik Elektro,2022,Freshman,2.97,Active,Need-based,21,Female,Surabaya
+STUD0350,Student_350,Fakultas Ilmu Komputer,Sistem Informasi,2021,Sophomore,3.55,Active,None,18,Female,Palembang
+STUD0351,Student_351,Fakultas Kedokteran,Sistem Informasi,2019,Senior,2.85,Inactive,None,20,Female,Banjarmasin
+STUD0352,Student_352,Fakultas Sastra,Akuntansi,2020,Junior,2.74,Inactive,None,18,Male,Bandung
+STUD0353,Student_353,Fakultas Hukum,Teknik Elektro,2020,Sophomore,3.3,Active,None,18,Female,Yogyakarta
+STUD0354,Student_354,Fakultas Teknik,Kedokteran,2018,Freshman,2.37,Active,None,24,Male,Surabaya
+STUD0355,Student_355,Fakultas Ekonomi,Teknik Elektro,2019,Sophomore,3.48,Active,None,22,Female,Jakarta
+STUD0356,Student_356,Fakultas Hukum,Teknik Elektro,2020,Sophomore,3.49,Graduated,None,18,Male,Yogyakarta
+STUD0357,Student_357,Fakultas Ilmu Komputer,Teknik Elektro,2018,Sophomore,3.09,Inactive,None,18,Male,Palembang
+STUD0358,Student_358,Fakultas Teknik,Ilmu Hukum,2018,Sophomore,2.83,Inactive,None,23,Female,Surabaya
+STUD0359,Student_359,Fakultas Hukum,Kedokteran,2022,Sophomore,2.46,Active,None,20,Female,Banjarmasin
+STUD0360,Student_360,Fakultas Kedokteran,Sistem Informasi,2018,Sophomore,3.32,Active,Need-based,20,Male,Bandung
+STUD0361,Student_361,Fakultas Ekonomi,Sastra Inggris,2021,Sophomore,2.86,Active,Sports,20,Female,Yogyakarta
+STUD0362,Student_362,Fakultas Teknik,Manajemen,2019,Senior,3.36,Active,None,21,Female,Makassar
+STUD0363,Student_363,Fakultas Sastra,Akuntansi,2019,Junior,3.24,Active,None,18,Male,Surabaya
+STUD0364,Student_364,Fakultas Hukum,Sastra Inggris,2022,Freshman,2.3,Active,Academic,20,Female,Banjarmasin
+STUD0365,Student_365,Fakultas Sastra,Sistem Informasi,2022,Junior,2.55,Active,None,20,Male,Semarang
+STUD0366,Student_366,Fakultas Teknik,Teknik Informatika,2020,Senior,3.13,Active,Academic,22,Male,Bandung
+STUD0367,Student_367,Fakultas Kedokteran,Akuntansi,2020,Sophomore,3.2,Graduated,Sports,21,Male,Jakarta
+STUD0368,Student_368,Fakultas Ekonomi,Teknik Elektro,2019,Freshman,3.07,Active,None,23,Male,Semarang
+STUD0369,Student_369,Fakultas Ekonomi,Teknik Elektro,2022,Freshman,2.89,Graduated,None,20,Male,Yogyakarta
+STUD0370,Student_370,Fakultas Sastra,Manajemen,2023,Sophomore,3.41,Active,Need-based,20,Female,Surabaya
+STUD0371,Student_371,Fakultas Kedokteran,Sastra Inggris,2021,Senior,3.14,Inactive,None,23,Female,Surabaya
+STUD0372,Student_372,Fakultas Ilmu Komputer,Kedokteran,2018,Freshman,3.95,Active,None,24,Female,Denpasar
+STUD0373,Student_373,Fakultas Ilmu Komputer,Kedokteran,2023,Junior,3.91,Active,None,19,Male,Semarang
+STUD0374,Student_374,Fakultas Ekonomi,Manajemen,2023,Junior,2.93,Inactive,None,19,Male,Makassar
+STUD0375,Student_375,Fakultas Sastra,Kedokteran,2021,Freshman,2.53,Graduated,Need-based,23,Male,Denpasar
+STUD0376,Student_376,Fakultas Ilmu Komputer,Kedokteran,2021,Junior,3.27,Active,Academic,20,Female,Yogyakarta
+STUD0377,Student_377,Fakultas Ekonomi,Teknik Informatika,2020,Junior,3.16,Active,None,23,Male,Makassar
+STUD0378,Student_378,Fakultas Ekonomi,Sastra Inggris,2021,Senior,2.85,Active,Academic,19,Male,Medan
+STUD0379,Student_379,Fakultas Ekonomi,Manajemen,2020,Junior,3.06,Active,None,20,Male,Bandung
+STUD0380,Student_380,Fakultas Ilmu Komputer,Sistem Informasi,2021,Freshman,2.64,Graduated,Sports,21,Male,Medan
+STUD0381,Student_381,Fakultas Teknik,Manajemen,2021,Senior,3.52,Active,None,21,Male,Palembang
+STUD0382,Student_382,Fakultas Ekonomi,Ilmu Hukum,2020,Junior,2.44,Inactive,Academic,24,Male,Medan
+STUD0383,Student_383,Fakultas Ekonomi,Manajemen,2019,Sophomore,3.51,Active,None,20,Female,Surabaya
+STUD0384,Student_384,Fakultas Kedokteran,Teknik Elektro,2021,Senior,3.69,Active,None,20,Female,Surabaya
+STUD0385,Student_385,Fakultas Teknik,Sastra Inggris,2021,Freshman,3.65,Active,None,23,Male,Semarang
+STUD0386,Student_386,Fakultas Ekonomi,Teknik Elektro,2018,Junior,3.26,Active,Academic,24,Female,Denpasar
+STUD0387,Student_387,Fakultas Ilmu Komputer,Ilmu Hukum,2022,Junior,3.05,Active,None,18,Female,Denpasar
+STUD0388,Student_388,Fakultas Sastra,Ilmu Hukum,2020,Sophomore,3.95,Active,None,22,Male,Surabaya
+STUD0389,Student_389,Fakultas Hukum,Sistem Informasi,2020,Sophomore,1.74,Active,None,19,Male,Surabaya
+STUD0390,Student_390,Fakultas Kedokteran,Teknik Elektro,2020,Freshman,2.94,Inactive,None,23,Female,Makassar
+STUD0391,Student_391,Fakultas Ilmu Komputer,Manajemen,2022,Junior,3.49,Active,None,18,Male,Makassar
+STUD0392,Student_392,Fakultas Ilmu Komputer,Sastra Inggris,2020,Senior,2.67,Inactive,None,19,Female,Surabaya
+STUD0393,Student_393,Fakultas Kedokteran,Sistem Informasi,2021,Senior,2.57,Active,None,22,Male,Yogyakarta
+STUD0394,Student_394,Fakultas Teknik,Sistem Informasi,2023,Senior,2.66,Graduated,None,22,Female,Yogyakarta
+STUD0395,Student_395,Fakultas Sastra,Teknik Elektro,2023,Freshman,3.01,Active,None,19,Male,Medan
+STUD0396,Student_396,Fakultas Ekonomi,Akuntansi,2021,Freshman,2.27,Inactive,None,23,Female,Bandung
+STUD0397,Student_397,Fakultas Sastra,Kedokteran,2020,Freshman,3.01,Graduated,None,18,Male,Palembang
+STUD0398,Student_398,Fakultas Sastra,Kedokteran,2021,Junior,2.93,Active,Academic,23,Female,Makassar
+STUD0399,Student_399,Fakultas Ilmu Komputer,Akuntansi,2023,Sophomore,3.42,Active,None,23,Female,Palembang
+STUD0400,Student_400,Fakultas Kedokteran,Teknik Informatika,2020,Senior,2.64,Active,Academic,24,Male,Semarang
+STUD0401,Student_401,Fakultas Kedokteran,Sistem Informasi,2019,Sophomore,2.9,Active,Need-based,19,Male,Medan
+STUD0402,Student_402,Fakultas Hukum,Teknik Elektro,2021,Sophomore,2.57,Active,None,23,Male,Surabaya
+STUD0403,Student_403,Fakultas Hukum,Sistem Informasi,2022,Junior,3.28,Active,Academic,19,Male,Surabaya
+STUD0404,Student_404,Fakultas Sastra,Manajemen,2018,Freshman,2.94,Active,Academic,20,Female,Yogyakarta
+STUD0405,Student_405,Fakultas Teknik,Kedokteran,2019,Senior,2.82,Active,None,23,Female,Makassar
+STUD0406,Student_406,Fakultas Ilmu Komputer,Kedokteran,2023,Sophomore,2.26,Active,Academic,21,Male,Denpasar
+STUD0407,Student_407,Fakultas Kedokteran,Teknik Informatika,2020,Freshman,2.7,Inactive,None,20,Male,Banjarmasin
+STUD0408,Student_408,Fakultas Ekonomi,Akuntansi,2021,Junior,2.11,Active,None,24,Male,Denpasar
+STUD0409,Student_409,Fakultas Hukum,Kedokteran,2022,Freshman,2.95,Active,None,21,Female,Jakarta
+STUD0410,Student_410,Fakultas Teknik,Manajemen,2018,Senior,2.57,Inactive,None,18,Female,Jakarta
+STUD0411,Student_411,Fakultas Teknik,Ilmu Hukum,2021,Freshman,2.11,Active,None,19,Male,Medan
+STUD0412,Student_412,Fakultas Kedokteran,Kedokteran,2022,Junior,3.58,Graduated,None,23,Male,Bandung
+STUD0413,Student_413,Fakultas Hukum,Kedokteran,2020,Senior,3.16,Active,None,24,Male,Makassar
+STUD0414,Student_414,Fakultas Hukum,Kedokteran,2023,Junior,2.89,Active,None,19,Female,Semarang
+STUD0415,Student_415,Fakultas Sastra,Akuntansi,2023,Senior,3.26,Active,None,18,Male,Bandung
+STUD0416,Student_416,Fakultas Kedokteran,Sistem Informasi,2018,Sophomore,3.29,Active,None,22,Female,Denpasar
+STUD0417,Student_417,Fakultas Kedokteran,Kedokteran,2018,Freshman,3.52,Active,None,23,Female,Makassar
+STUD0418,Student_418,Fakultas Teknik,Manajemen,2023,Junior,3.16,Active,None,18,Male,Yogyakarta
+STUD0419,Student_419,Fakultas Hukum,Akuntansi,2020,Freshman,2.54,Active,None,21,Male,Banjarmasin
+STUD0420,Student_420,Fakultas Ilmu Komputer,Ilmu Hukum,2020,Sophomore,2.71,Active,Academic,20,Male,Makassar
+STUD0421,Student_421,Fakultas Ilmu Komputer,Teknik Informatika,2018,Junior,3.04,Active,Academic,24,Male,Medan
+STUD0422,Student_422,Fakultas Hukum,Teknik Elektro,2018,Senior,3.21,Inactive,Need-based,23,Female,Makassar
+STUD0423,Student_423,Fakultas Hukum,Sastra Inggris,2021,Freshman,4.0,Active,None,22,Male,Palembang
+STUD0424,Student_424,Fakultas Sastra,Kedokteran,2023,Senior,2.38,Active,None,23,Female,Palembang
+STUD0425,Student_425,Fakultas Ekonomi,Teknik Informatika,2022,Senior,2.36,Inactive,None,24,Female,Palembang
+STUD0426,Student_426,Fakultas Teknik,Akuntansi,2019,Senior,2.78,Graduated,Academic,22,Male,Semarang
+STUD0427,Student_427,Fakultas Ekonomi,Akuntansi,2022,Freshman,2.58,Active,None,19,Male,Palembang
+STUD0428,Student_428,Fakultas Ilmu Komputer,Sistem Informasi,2019,Senior,2.72,Active,None,23,Male,Surabaya
+STUD0429,Student_429,Fakultas Teknik,Ilmu Hukum,2019,Senior,2.98,Active,Need-based,20,Male,Denpasar
+STUD0430,Student_430,Fakultas Teknik,Teknik Informatika,2018,Freshman,2.65,Active,None,19,Male,Medan
+STUD0431,Student_431,Fakultas Sastra,Sistem Informasi,2019,Freshman,3.52,Active,None,18,Female,Bandung
+STUD0432,Student_432,Fakultas Ilmu Komputer,Teknik Elektro,2020,Sophomore,3.94,Graduated,None,21,Male,Jakarta
+STUD0433,Student_433,Fakultas Ilmu Komputer,Kedokteran,2019,Junior,3.32,Active,Sports,18,Female,Semarang
+STUD0434,Student_434,Fakultas Hukum,Akuntansi,2023,Senior,2.83,Active,None,21,Male,Bandung
+STUD0435,Student_435,Fakultas Kedokteran,Akuntansi,2022,Freshman,2.84,Active,None,20,Female,Banjarmasin
+STUD0436,Student_436,Fakultas Hukum,Sastra Inggris,2022,Junior,2.64,Graduated,Sports,20,Male,Bandung
+STUD0437,Student_437,Fakultas Kedokteran,Sastra Inggris,2019,Freshman,2.89,Active,None,23,Male,Bandung
+STUD0438,Student_438,Fakultas Hukum,Sistem Informasi,2022,Junior,2.83,Active,Need-based,23,Female,Denpasar
+STUD0439,Student_439,Fakultas Ilmu Komputer,Akuntansi,2021,Freshman,3.76,Active,None,23,Male,Banjarmasin
+STUD0440,Student_440,Fakultas Ilmu Komputer,Ilmu Hukum,2018,Junior,2.46,Active,Academic,21,Female,Makassar
+STUD0441,Student_441,Fakultas Ekonomi,Sistem Informasi,2020,Senior,3.05,Active,None,21,Female,Yogyakarta
+STUD0442,Student_442,Fakultas Teknik,Akuntansi,2021,Junior,2.43,Active,None,19,Male,Jakarta
+STUD0443,Student_443,Fakultas Hukum,Manajemen,2019,Senior,3.03,Active,Need-based,24,Female,Denpasar
+STUD0444,Student_444,Fakultas Sastra,Akuntansi,2023,Sophomore,3.0,Graduated,None,22,Male,Palembang
+STUD0445,Student_445,Fakultas Ekonomi,Sastra Inggris,2023,Freshman,2.79,Active,None,20,Female,Medan
+STUD0446,Student_446,Fakultas Teknik,Sastra Inggris,2022,Sophomore,2.49,Active,None,21,Female,Palembang
+STUD0447,Student_447,Fakultas Sastra,Sistem Informasi,2018,Freshman,3.23,Active,Need-based,22,Male,Palembang
+STUD0448,Student_448,Fakultas Sastra,Ilmu Hukum,2023,Junior,2.42,Active,None,24,Male,Bandung
+STUD0449,Student_449,Fakultas Ekonomi,Ilmu Hukum,2020,Senior,2.61,Active,None,22,Male,Bandung
+STUD0450,Student_450,Fakultas Teknik,Sistem Informasi,2022,Freshman,2.64,Inactive,None,23,Female,Bandung
+STUD0451,Student_451,Fakultas Teknik,Teknik Elektro,2018,Junior,3.0,Active,Need-based,21,Female,Semarang
+STUD0452,Student_452,Fakultas Kedokteran,Teknik Informatika,2021,Junior,3.32,Inactive,None,22,Female,Semarang
+STUD0453,Student_453,Fakultas Ekonomi,Teknik Elektro,2021,Junior,2.59,Active,Academic,18,Female,Medan
+STUD0454,Student_454,Fakultas Hukum,Sistem Informasi,2018,Senior,2.86,Active,Sports,19,Female,Yogyakarta
+STUD0455,Student_455,Fakultas Teknik,Akuntansi,2019,Senior,2.79,Active,None,22,Male,Banjarmasin
+STUD0456,Student_456,Fakultas Sastra,Manajemen,2022,Sophomore,3.71,Active,None,22,Female,Yogyakarta
+STUD0457,Student_457,Fakultas Ilmu Komputer,Manajemen,2020,Freshman,3.16,Active,None,20,Male,Palembang
+STUD0458,Student_458,Fakultas Kedokteran,Kedokteran,2018,Sophomore,2.22,Active,Academic,20,Female,Surabaya
+STUD0459,Student_459,Fakultas Ilmu Komputer,Teknik Informatika,2022,Junior,3.58,Active,None,24,Male,Yogyakarta
+STUD0460,Student_460,Fakultas Sastra,Ilmu Hukum,2019,Sophomore,2.84,Active,None,24,Male,Surabaya
+STUD0461,Student_461,Fakultas Ekonomi,Ilmu Hukum,2018,Sophomore,3.3,Active,None,23,Female,Banjarmasin
+STUD0462,Student_462,Fakultas Sastra,Manajemen,2019,Senior,3.09,Active,Academic,23,Male,Surabaya
+STUD0463,Student_463,Fakultas Kedokteran,Ilmu Hukum,2022,Senior,2.64,Graduated,None,20,Male,Makassar
+STUD0464,Student_464,Fakultas Kedokteran,Kedokteran,2020,Senior,2.91,Active,Need-based,23,Female,Banjarmasin
+STUD0465,Student_465,Fakultas Teknik,Teknik Informatika,2020,Sophomore,2.94,Active,None,21,Female,Makassar
+STUD0466,Student_466,Fakultas Sastra,Akuntansi,2020,Junior,3.38,Active,None,24,Female,Jakarta
+STUD0467,Student_467,Fakultas Teknik,Teknik Elektro,2021,Sophomore,2.81,Active,None,23,Female,Yogyakarta
+STUD0468,Student_468,Fakultas Teknik,Kedokteran,2023,Junior,2.26,Active,None,21,Male,Semarang
+STUD0469,Student_469,Fakultas Hukum,Teknik Informatika,2021,Freshman,3.92,Graduated,None,19,Male,Bandung
+STUD0470,Student_470,Fakultas Kedokteran,Sistem Informasi,2019,Freshman,3.09,Active,None,21,Male,Banjarmasin
+STUD0471,Student_471,Fakultas Sastra,Kedokteran,2022,Freshman,3.96,Graduated,Academic,21,Female,Palembang
+STUD0472,Student_472,Fakultas Teknik,Manajemen,2023,Freshman,3.15,Active,Academic,20,Female,Banjarmasin
+STUD0473,Student_473,Fakultas Sastra,Akuntansi,2022,Freshman,3.19,Inactive,Need-based,20,Female,Makassar
+STUD0474,Student_474,Fakultas Hukum,Ilmu Hukum,2022,Junior,2.58,Active,None,23,Male,Makassar
+STUD0475,Student_475,Fakultas Teknik,Sistem Informasi,2019,Junior,1.96,Active,None,19,Female,Jakarta
+STUD0476,Student_476,Fakultas Hukum,Teknik Informatika,2023,Senior,2.77,Active,None,22,Male,Yogyakarta
+STUD0477,Student_477,Fakultas Kedokteran,Ilmu Hukum,2022,Senior,2.94,Active,None,19,Female,Bandung
+STUD0478,Student_478,Fakultas Ekonomi,Teknik Informatika,2018,Freshman,2.78,Active,None,21,Female,Banjarmasin
+STUD0479,Student_479,Fakultas Kedokteran,Manajemen,2020,Junior,3.25,Active,Academic,19,Male,Palembang
+STUD0480,Student_480,Fakultas Ilmu Komputer,Teknik Elektro,2022,Sophomore,3.32,Active,None,22,Female,Medan
+STUD0481,Student_481,Fakultas Hukum,Teknik Elektro,2023,Junior,2.41,Active,Need-based,24,Female,Jakarta
+STUD0482,Student_482,Fakultas Sastra,Teknik Informatika,2021,Sophomore,3.37,Active,None,22,Female,Semarang
+STUD0483,Student_483,Fakultas Kedokteran,Manajemen,2022,Freshman,3.2,Active,Need-based,19,Male,Banjarmasin
+STUD0484,Student_484,Fakultas Ilmu Komputer,Sistem Informasi,2020,Sophomore,2.93,Active,Academic,21,Female,Medan
+STUD0485,Student_485,Fakultas Sastra,Sistem Informasi,2021,Junior,3.59,Active,None,20,Female,Jakarta
+STUD0486,Student_486,Fakultas Kedokteran,Manajemen,2023,Sophomore,3.65,Active,None,20,Female,Bandung
+STUD0487,Student_487,Fakultas Teknik,Teknik Informatika,2020,Senior,3.27,Graduated,None,20,Female,Denpasar
+STUD0488,Student_488,Fakultas Kedokteran,Sastra Inggris,2020,Senior,1.78,Active,Need-based,19,Female,Bandung
+STUD0489,Student_489,Fakultas Ilmu Komputer,Kedokteran,2019,Senior,3.72,Active,None,24,Male,Yogyakarta
+STUD0490,Student_490,Fakultas Kedokteran,Manajemen,2021,Senior,2.97,Active,None,20,Male,Makassar
+STUD0491,Student_491,Fakultas Sastra,Sistem Informasi,2018,Freshman,3.3,Active,None,24,Female,Yogyakarta
+STUD0492,Student_492,Fakultas Sastra,Akuntansi,2021,Sophomore,3.1,Active,Academic,24,Female,Denpasar
+STUD0493,Student_493,Fakultas Kedokteran,Kedokteran,2023,Senior,2.39,Active,None,24,Female,Denpasar
+STUD0494,Student_494,Fakultas Hukum,Kedokteran,2019,Freshman,3.53,Active,None,18,Male,Palembang
+STUD0495,Student_495,Fakultas Ekonomi,Manajemen,2018,Sophomore,3.53,Active,None,24,Male,Surabaya
+STUD0496,Student_496,Fakultas Ilmu Komputer,Kedokteran,2020,Junior,3.41,Inactive,None,19,Male,Makassar
+STUD0497,Student_497,Fakultas Sastra,Kedokteran,2020,Freshman,2.94,Active,Need-based,18,Male,Medan
+STUD0498,Student_498,Fakultas Ekonomi,Manajemen,2020,Freshman,2.72,Active,Academic,21,Male,Semarang
+STUD0499,Student_499,Fakultas Sastra,Sastra Inggris,2023,Freshman,2.73,Inactive,Academic,20,Female,Makassar
+STUD0500,Student_500,Fakultas Kedokteran,Akuntansi,2018,Sophomore,3.15,Active,Academic,19,Male,Medan
+STUD0501,Student_501,Fakultas Ekonomi,Teknik Elektro,2019,Freshman,1.81,Active,Need-based,18,Male,Makassar
+STUD0502,Student_502,Fakultas Ilmu Komputer,Kedokteran,2018,Sophomore,3.48,Active,None,20,Female,Denpasar
+STUD0503,Student_503,Fakultas Ilmu Komputer,Teknik Informatika,2018,Sophomore,3.07,Active,None,18,Female,Semarang
+STUD0504,Student_504,Fakultas Kedokteran,Ilmu Hukum,2020,Senior,3.6,Graduated,None,18,Male,Jakarta
+STUD0505,Student_505,Fakultas Ilmu Komputer,Sastra Inggris,2023,Junior,3.1,Active,None,20,Female,Surabaya
+STUD0506,Student_506,Fakultas Teknik,Ilmu Hukum,2023,Senior,3.66,Active,None,20,Female,Banjarmasin
+STUD0507,Student_507,Fakultas Teknik,Manajemen,2021,Junior,3.2,Graduated,None,22,Male,Medan
+STUD0508,Student_508,Fakultas Sastra,Sistem Informasi,2019,Freshman,2.26,Active,None,19,Male,Banjarmasin
+STUD0509,Student_509,Fakultas Teknik,Sistem Informasi,2022,Senior,2.73,Active,None,24,Male,Makassar
+STUD0510,Student_510,Fakultas Ekonomi,Teknik Elektro,2018,Junior,3.92,Active,None,19,Female,Jakarta
+STUD0511,Student_511,Fakultas Hukum,Akuntansi,2019,Junior,3.02,Active,None,20,Female,Jakarta
+STUD0512,Student_512,Fakultas Sastra,Akuntansi,2023,Sophomore,3.26,Active,None,20,Female,Denpasar
+STUD0513,Student_513,Fakultas Kedokteran,Manajemen,2020,Freshman,2.95,Active,Need-based,18,Male,Palembang
+STUD0514,Student_514,Fakultas Kedokteran,Teknik Elektro,2023,Freshman,2.34,Active,None,20,Male,Palembang
+STUD0515,Student_515,Fakultas Hukum,Akuntansi,2021,Sophomore,3.29,Active,None,21,Female,Semarang
+STUD0516,Student_516,Fakultas Sastra,Teknik Elektro,2019,Freshman,3.01,Active,None,23,Male,Makassar
+STUD0517,Student_517,Fakultas Teknik,Teknik Elektro,2023,Freshman,3.04,Active,Sports,18,Male,Denpasar
+STUD0518,Student_518,Fakultas Sastra,Kedokteran,2019,Junior,1.99,Graduated,None,19,Male,Makassar
+STUD0519,Student_519,Fakultas Sastra,Kedokteran,2020,Junior,2.92,Active,None,23,Female,Bandung
+STUD0520,Student_520,Fakultas Ilmu Komputer,Teknik Informatika,2021,Sophomore,2.74,Active,Academic,22,Male,Banjarmasin
+STUD0521,Student_521,Fakultas Sastra,Sastra Inggris,2022,Senior,3.68,Active,None,20,Female,Denpasar
+STUD0522,Student_522,Fakultas Teknik,Sastra Inggris,2022,Junior,2.79,Active,Academic,22,Female,Palembang
+STUD0523,Student_523,Fakultas Ilmu Komputer,Sistem Informasi,2023,Freshman,3.46,Active,None,21,Male,Banjarmasin
+STUD0524,Student_524,Fakultas Kedokteran,Teknik Informatika,2018,Junior,3.59,Active,None,21,Female,Surabaya
+STUD0525,Student_525,Fakultas Ilmu Komputer,Manajemen,2018,Freshman,2.74,Active,None,22,Male,Banjarmasin
+STUD0526,Student_526,Fakultas Hukum,Kedokteran,2021,Sophomore,2.72,Active,Academic,21,Male,Medan
+STUD0527,Student_527,Fakultas Ekonomi,Manajemen,2019,Freshman,2.4,Graduated,None,23,Female,Jakarta
+STUD0528,Student_528,Fakultas Kedokteran,Ilmu Hukum,2020,Junior,2.98,Active,None,21,Female,Yogyakarta
+STUD0529,Student_529,Fakultas Teknik,Sistem Informasi,2021,Senior,3.52,Active,None,23,Male,Makassar
+STUD0530,Student_530,Fakultas Sastra,Ilmu Hukum,2022,Junior,2.83,Active,Sports,18,Female,Bandung
+STUD0531,Student_531,Fakultas Hukum,Teknik Elektro,2023,Sophomore,3.56,Active,None,20,Female,Palembang
+STUD0532,Student_532,Fakultas Ilmu Komputer,Akuntansi,2018,Sophomore,2.23,Inactive,Academic,21,Male,Makassar
+STUD0533,Student_533,Fakultas Ekonomi,Teknik Elektro,2021,Freshman,3.05,Active,None,23,Male,Makassar
+STUD0534,Student_534,Fakultas Ilmu Komputer,Teknik Elektro,2020,Freshman,2.96,Active,None,24,Female,Makassar
+STUD0535,Student_535,Fakultas Ilmu Komputer,Sistem Informasi,2020,Junior,2.42,Active,Need-based,20,Male,Denpasar
+STUD0536,Student_536,Fakultas Ekonomi,Ilmu Hukum,2018,Freshman,2.75,Active,None,22,Male,Medan
+STUD0537,Student_537,Fakultas Ilmu Komputer,Sistem Informasi,2020,Senior,3.14,Active,None,19,Male,Surabaya
+STUD0538,Student_538,Fakultas Ekonomi,Sistem Informasi,2019,Senior,3.14,Active,None,22,Female,Surabaya
+STUD0539,Student_539,Fakultas Ekonomi,Akuntansi,2018,Freshman,2.85,Active,Academic,20,Male,Medan
+STUD0540,Student_540,Fakultas Ekonomi,Akuntansi,2022,Freshman,2.9,Graduated,Sports,22,Male,Semarang
+STUD0541,Student_541,Fakultas Teknik,Teknik Elektro,2020,Sophomore,3.26,Graduated,Academic,24,Male,Makassar
+STUD0542,Student_542,Fakultas Ilmu Komputer,Akuntansi,2023,Senior,2.78,Active,None,23,Male,Surabaya
+STUD0543,Student_543,Fakultas Ilmu Komputer,Kedokteran,2020,Senior,2.89,Inactive,None,19,Male,Jakarta
+STUD0544,Student_544,Fakultas Sastra,Ilmu Hukum,2018,Freshman,3.02,Active,None,19,Female,Denpasar
+STUD0545,Student_545,Fakultas Teknik,Akuntansi,2019,Freshman,2.05,Active,Academic,18,Male,Yogyakarta
+STUD0546,Student_546,Fakultas Teknik,Kedokteran,2020,Sophomore,2.42,Active,None,21,Female,Semarang
+STUD0547,Student_547,Fakultas Hukum,Manajemen,2018,Senior,3.13,Active,None,18,Male,Denpasar
+STUD0548,Student_548,Fakultas Ekonomi,Teknik Informatika,2019,Freshman,2.92,Active,Academic,20,Female,Bandung
+STUD0549,Student_549,Fakultas Sastra,Sistem Informasi,2019,Sophomore,2.3,Inactive,Academic,19,Female,Semarang
+STUD0550,Student_550,Fakultas Kedokteran,Sastra Inggris,2021,Junior,2.49,Active,None,22,Female,Jakarta
+STUD0551,Student_551,Fakultas Ilmu Komputer,Sistem Informasi,2020,Sophomore,2.71,Active,None,18,Female,Palembang
+STUD0552,Student_552,Fakultas Teknik,Teknik Elektro,2021,Sophomore,2.06,Active,Sports,22,Male,Yogyakarta
+STUD0553,Student_553,Fakultas Sastra,Teknik Informatika,2021,Senior,1.89,Active,None,19,Male,Makassar
+STUD0554,Student_554,Fakultas Sastra,Sistem Informasi,2018,Senior,3.31,Active,None,23,Male,Makassar
+STUD0555,Student_555,Fakultas Sastra,Akuntansi,2019,Senior,2.34,Active,Academic,20,Male,Palembang
+STUD0556,Student_556,Fakultas Teknik,Teknik Elektro,2022,Sophomore,1.89,Active,None,19,Female,Medan
+STUD0557,Student_557,Fakultas Kedokteran,Ilmu Hukum,2019,Junior,2.65,Active,None,21,Female,Banjarmasin
+STUD0558,Student_558,Fakultas Hukum,Ilmu Hukum,2018,Freshman,2.67,Active,None,21,Male,Makassar
+STUD0559,Student_559,Fakultas Hukum,Teknik Informatika,2023,Freshman,3.5,Active,None,24,Female,Bandung
+STUD0560,Student_560,Fakultas Ilmu Komputer,Akuntansi,2020,Freshman,2.8,Active,Sports,18,Female,Surabaya
+STUD0561,Student_561,Fakultas Sastra,Sastra Inggris,2018,Junior,3.06,Active,Academic,18,Male,Denpasar
+STUD0562,Student_562,Fakultas Sastra,Kedokteran,2020,Freshman,3.77,Active,None,22,Female,Denpasar
+STUD0563,Student_563,Fakultas Kedokteran,Sastra Inggris,2021,Junior,2.23,Active,Academic,22,Female,Denpasar
+STUD0564,Student_564,Fakultas Ekonomi,Teknik Elektro,2019,Freshman,3.57,Active,None,23,Male,Semarang
+STUD0565,Student_565,Fakultas Kedokteran,Teknik Informatika,2019,Sophomore,3.21,Active,Academic,20,Female,Banjarmasin
+STUD0566,Student_566,Fakultas Kedokteran,Sastra Inggris,2019,Freshman,3.73,Active,None,23,Female,Semarang
+STUD0567,Student_567,Fakultas Hukum,Akuntansi,2018,Junior,2.83,Active,Academic,23,Male,Medan
+STUD0568,Student_568,Fakultas Ekonomi,Manajemen,2019,Junior,3.48,Active,None,19,Male,Semarang
+STUD0569,Student_569,Fakultas Kedokteran,Sastra Inggris,2023,Senior,3.59,Active,None,18,Male,Palembang
+STUD0570,Student_570,Fakultas Ilmu Komputer,Akuntansi,2021,Sophomore,3.35,Active,Academic,20,Female,Palembang
+STUD0571,Student_571,Fakultas Ekonomi,Teknik Elektro,2020,Sophomore,2.84,Active,None,18,Female,Surabaya
+STUD0572,Student_572,Fakultas Ilmu Komputer,Sastra Inggris,2020,Freshman,2.81,Active,None,18,Female,Semarang
+STUD0573,Student_573,Fakultas Ilmu Komputer,Akuntansi,2021,Senior,2.88,Inactive,Academic,19,Female,Yogyakarta
+STUD0574,Student_574,Fakultas Ekonomi,Sistem Informasi,2019,Sophomore,2.27,Active,None,20,Male,Banjarmasin
+STUD0575,Student_575,Fakultas Teknik,Teknik Elektro,2023,Junior,3.23,Active,None,20,Male,Palembang
+STUD0576,Student_576,Fakultas Hukum,Sastra Inggris,2021,Freshman,3.46,Active,Academic,23,Female,Jakarta
+STUD0577,Student_577,Fakultas Sastra,Sastra Inggris,2020,Senior,2.39,Active,None,24,Male,Surabaya
+STUD0578,Student_578,Fakultas Kedokteran,Sastra Inggris,2022,Senior,2.67,Active,None,21,Female,Denpasar
+STUD0579,Student_579,Fakultas Ilmu Komputer,Sistem Informasi,2021,Sophomore,2.51,Active,Academic,21,Male,Bandung
+STUD0580,Student_580,Fakultas Sastra,Akuntansi,2020,Junior,2.96,Active,Academic,19,Female,Yogyakarta
+STUD0581,Student_581,Fakultas Kedokteran,Sastra Inggris,2018,Sophomore,3.03,Active,None,23,Female,Palembang
+STUD0582,Student_582,Fakultas Sastra,Sistem Informasi,2021,Junior,2.43,Active,None,19,Female,Banjarmasin
+STUD0583,Student_583,Fakultas Kedokteran,Sastra Inggris,2021,Junior,3.42,Active,Academic,20,Male,Bandung
+STUD0584,Student_584,Fakultas Ekonomi,Ilmu Hukum,2019,Junior,1.7,Active,Need-based,23,Male,Bandung
+STUD0585,Student_585,Fakultas Ekonomi,Akuntansi,2021,Freshman,3.88,Graduated,None,24,Male,Banjarmasin
+STUD0586,Student_586,Fakultas Hukum,Teknik Elektro,2023,Senior,3.86,Active,None,18,Female,Bandung
+STUD0587,Student_587,Fakultas Teknik,Kedokteran,2018,Freshman,3.6,Active,None,18,Male,Surabaya
+STUD0588,Student_588,Fakultas Sastra,Sistem Informasi,2018,Sophomore,3.02,Active,None,18,Female,Banjarmasin
+STUD0589,Student_589,Fakultas Ilmu Komputer,Teknik Informatika,2018,Freshman,3.04,Active,Academic,24,Male,Surabaya
+STUD0590,Student_590,Fakultas Sastra,Teknik Elektro,2020,Freshman,2.5,Inactive,None,24,Male,Denpasar
+STUD0591,Student_591,Fakultas Hukum,Kedokteran,2022,Sophomore,3.04,Active,None,21,Female,Semarang
+STUD0592,Student_592,Fakultas Teknik,Akuntansi,2021,Senior,2.24,Active,Need-based,19,Female,Yogyakarta
+STUD0593,Student_593,Fakultas Ilmu Komputer,Sastra Inggris,2020,Senior,2.52,Active,None,19,Male,Palembang
+STUD0594,Student_594,Fakultas Sastra,Sastra Inggris,2020,Freshman,2.65,Active,None,21,Female,Makassar
+STUD0595,Student_595,Fakultas Hukum,Ilmu Hukum,2018,Freshman,2.21,Inactive,None,20,Male,Semarang
+STUD0596,Student_596,Fakultas Sastra,Ilmu Hukum,2018,Sophomore,3.02,Active,Need-based,21,Female,Semarang
+STUD0597,Student_597,Fakultas Ilmu Komputer,Ilmu Hukum,2018,Freshman,2.65,Active,Sports,23,Male,Makassar
+STUD0598,Student_598,Fakultas Teknik,Sastra Inggris,2021,Freshman,2.73,Active,None,22,Male,Bandung
+STUD0599,Student_599,Fakultas Sastra,Manajemen,2023,Senior,2.92,Active,None,22,Male,Yogyakarta
+STUD0600,Student_600,Fakultas Teknik,Manajemen,2020,Freshman,2.96,Inactive,None,19,Male,Banjarmasin
+STUD0601,Student_601,Fakultas Ekonomi,Sastra Inggris,2021,Senior,2.0,Active,None,20,Male,Medan
+STUD0602,Student_602,Fakultas Ekonomi,Teknik Informatika,2018,Sophomore,3.46,Active,None,20,Female,Bandung
+STUD0603,Student_603,Fakultas Sastra,Sistem Informasi,2021,Junior,2.53,Active,Sports,24,Male,Palembang
+STUD0604,Student_604,Fakultas Hukum,Teknik Informatika,2019,Senior,2.35,Active,None,22,Male,Banjarmasin
+STUD0605,Student_605,Fakultas Teknik,Ilmu Hukum,2018,Senior,2.3,Active,None,24,Male,Semarang
+STUD0606,Student_606,Fakultas Kedokteran,Sastra Inggris,2022,Junior,2.86,Graduated,Need-based,20,Male,Semarang
+STUD0607,Student_607,Fakultas Kedokteran,Sastra Inggris,2018,Freshman,3.42,Active,None,19,Female,Palembang
+STUD0608,Student_608,Fakultas Ekonomi,Teknik Informatika,2022,Junior,2.8,Active,None,18,Female,Denpasar
+STUD0609,Student_609,Fakultas Kedokteran,Teknik Elektro,2021,Junior,2.99,Active,Academic,21,Female,Palembang
+STUD0610,Student_610,Fakultas Hukum,Kedokteran,2018,Freshman,3.15,Active,None,21,Female,Jakarta
+STUD0611,Student_611,Fakultas Ilmu Komputer,Sastra Inggris,2020,Sophomore,3.53,Active,None,22,Female,Yogyakarta
+STUD0612,Student_612,Fakultas Ekonomi,Ilmu Hukum,2020,Freshman,2.77,Active,Academic,24,Female,Banjarmasin
+STUD0613,Student_613,Fakultas Sastra,Kedokteran,2018,Freshman,2.64,Active,None,23,Female,Surabaya
+STUD0614,Student_614,Fakultas Teknik,Teknik Elektro,2021,Sophomore,3.64,Active,None,19,Male,Surabaya
+STUD0615,Student_615,Fakultas Ekonomi,Teknik Informatika,2022,Senior,3.15,Active,None,22,Male,Palembang
+STUD0616,Student_616,Fakultas Hukum,Teknik Elektro,2021,Senior,2.36,Active,None,23,Male,Makassar
+STUD0617,Student_617,Fakultas Sastra,Sastra Inggris,2023,Freshman,3.17,Inactive,None,23,Male,Surabaya
+STUD0618,Student_618,Fakultas Hukum,Kedokteran,2020,Senior,2.63,Active,None,24,Female,Bandung
+STUD0619,Student_619,Fakultas Kedokteran,Teknik Elektro,2023,Junior,3.73,Active,None,21,Male,Banjarmasin
+STUD0620,Student_620,Fakultas Kedokteran,Sastra Inggris,2018,Junior,2.62,Active,None,22,Female,Denpasar
+STUD0621,Student_621,Fakultas Ilmu Komputer,Ilmu Hukum,2023,Junior,2.4,Graduated,None,19,Male,Banjarmasin
+STUD0622,Student_622,Fakultas Kedokteran,Ilmu Hukum,2020,Junior,3.29,Active,None,20,Female,Semarang
+STUD0623,Student_623,Fakultas Kedokteran,Akuntansi,2023,Sophomore,2.57,Inactive,None,18,Female,Bandung
+STUD0624,Student_624,Fakultas Teknik,Sistem Informasi,2021,Sophomore,2.47,Active,None,24,Male,Bandung
+STUD0625,Student_625,Fakultas Teknik,Akuntansi,2022,Freshman,1.87,Active,Academic,24,Female,Surabaya
+STUD0626,Student_626,Fakultas Teknik,Sistem Informasi,2022,Junior,3.79,Active,Academic,22,Female,Semarang
+STUD0627,Student_627,Fakultas Hukum,Akuntansi,2019,Senior,3.21,Active,None,20,Female,Jakarta
+STUD0628,Student_628,Fakultas Sastra,Manajemen,2023,Senior,2.75,Active,None,24,Male,Semarang
+STUD0629,Student_629,Fakultas Sastra,Teknik Informatika,2022,Sophomore,3.58,Active,None,18,Male,Palembang
+STUD0630,Student_630,Fakultas Ekonomi,Akuntansi,2023,Senior,3.17,Active,None,24,Male,Denpasar
+STUD0631,Student_631,Fakultas Teknik,Sastra Inggris,2018,Freshman,2.95,Active,None,21,Female,Medan
+STUD0632,Student_632,Fakultas Ekonomi,Sistem Informasi,2022,Junior,3.11,Graduated,None,19,Female,Makassar
+STUD0633,Student_633,Fakultas Ekonomi,Kedokteran,2021,Junior,3.18,Active,None,19,Male,Surabaya
+STUD0634,Student_634,Fakultas Ekonomi,Teknik Informatika,2018,Senior,4.0,Active,None,23,Female,Bandung
+STUD0635,Student_635,Fakultas Ilmu Komputer,Teknik Elektro,2018,Freshman,2.73,Active,Academic,18,Male,Banjarmasin
+STUD0636,Student_636,Fakultas Hukum,Kedokteran,2023,Sophomore,3.36,Active,None,20,Male,Surabaya
+STUD0637,Student_637,Fakultas Teknik,Sastra Inggris,2018,Junior,2.37,Active,Sports,18,Male,Yogyakarta
+STUD0638,Student_638,Fakultas Kedokteran,Kedokteran,2018,Junior,3.15,Active,None,18,Female,Jakarta
+STUD0639,Student_639,Fakultas Sastra,Kedokteran,2019,Freshman,3.55,Graduated,Need-based,21,Male,Palembang
+STUD0640,Student_640,Fakultas Kedokteran,Sastra Inggris,2021,Freshman,3.86,Active,None,20,Male,Bandung
+STUD0641,Student_641,Fakultas Ekonomi,Teknik Informatika,2023,Freshman,2.81,Inactive,Need-based,19,Female,Yogyakarta
+STUD0642,Student_642,Fakultas Ekonomi,Akuntansi,2023,Senior,2.72,Active,None,22,Female,Medan
+STUD0643,Student_643,Fakultas Hukum,Akuntansi,2022,Junior,2.56,Active,None,23,Female,Palembang
+STUD0644,Student_644,Fakultas Sastra,Teknik Elektro,2018,Junior,2.35,Active,None,21,Female,Denpasar
+STUD0645,Student_645,Fakultas Teknik,Kedokteran,2019,Sophomore,2.92,Graduated,None,21,Male,Bandung
+STUD0646,Student_646,Fakultas Hukum,Teknik Informatika,2018,Junior,2.78,Active,None,18,Male,Medan
+STUD0647,Student_647,Fakultas Ilmu Komputer,Manajemen,2021,Freshman,3.24,Active,None,22,Female,Jakarta
+STUD0648,Student_648,Fakultas Kedokteran,Teknik Elektro,2023,Junior,3.45,Graduated,None,22,Male,Jakarta
+STUD0649,Student_649,Fakultas Kedokteran,Akuntansi,2022,Senior,3.13,Inactive,None,19,Female,Denpasar
+STUD0650,Student_650,Fakultas Teknik,Ilmu Hukum,2020,Freshman,3.23,Graduated,None,19,Female,Surabaya
+STUD0651,Student_651,Fakultas Hukum,Ilmu Hukum,2022,Senior,2.95,Active,None,21,Male,Banjarmasin
+STUD0652,Student_652,Fakultas Kedokteran,Sistem Informasi,2020,Senior,3.31,Active,Need-based,24,Male,Semarang
+STUD0653,Student_653,Fakultas Kedokteran,Sastra Inggris,2021,Junior,3.25,Active,None,20,Male,Semarang
+STUD0654,Student_654,Fakultas Teknik,Teknik Elektro,2019,Junior,2.95,Active,None,19,Female,Banjarmasin
+STUD0655,Student_655,Fakultas Ilmu Komputer,Sistem Informasi,2019,Senior,1.89,Active,None,23,Female,Palembang
+STUD0656,Student_656,Fakultas Ilmu Komputer,Akuntansi,2023,Sophomore,2.63,Active,Need-based,23,Female,Denpasar
+STUD0657,Student_657,Fakultas Teknik,Teknik Informatika,2019,Freshman,3.31,Inactive,None,21,Female,Yogyakarta
+STUD0658,Student_658,Fakultas Sastra,Kedokteran,2021,Sophomore,2.88,Active,None,23,Female,Banjarmasin
+STUD0659,Student_659,Fakultas Hukum,Teknik Informatika,2023,Sophomore,3.51,Active,Academic,19,Male,Surabaya
+STUD0660,Student_660,Fakultas Teknik,Manajemen,2018,Junior,3.21,Active,None,18,Female,Jakarta
+STUD0661,Student_661,Fakultas Hukum,Teknik Elektro,2019,Freshman,3.49,Active,None,20,Female,Yogyakarta
+STUD0662,Student_662,Fakultas Sastra,Akuntansi,2019,Freshman,3.06,Active,Academic,23,Male,Banjarmasin
+STUD0663,Student_663,Fakultas Sastra,Ilmu Hukum,2021,Junior,3.48,Active,None,20,Male,Jakarta
+STUD0664,Student_664,Fakultas Hukum,Sistem Informasi,2019,Senior,3.08,Inactive,None,22,Male,Palembang
+STUD0665,Student_665,Fakultas Ekonomi,Akuntansi,2022,Junior,3.65,Active,None,18,Female,Makassar
+STUD0666,Student_666,Fakultas Ilmu Komputer,Akuntansi,2020,Freshman,2.66,Active,None,20,Male,Yogyakarta
+STUD0667,Student_667,Fakultas Hukum,Kedokteran,2018,Junior,3.0,Active,None,21,Female,Bandung
+STUD0668,Student_668,Fakultas Ilmu Komputer,Sastra Inggris,2022,Senior,2.8,Graduated,None,19,Male,Palembang
+STUD0669,Student_669,Fakultas Kedokteran,Ilmu Hukum,2023,Junior,3.41,Graduated,None,23,Female,Makassar
+STUD0670,Student_670,Fakultas Ekonomi,Kedokteran,2022,Junior,2.72,Active,Academic,19,Male,Jakarta
+STUD0671,Student_671,Fakultas Kedokteran,Teknik Informatika,2020,Junior,3.15,Active,None,24,Male,Bandung
+STUD0672,Student_672,Fakultas Hukum,Akuntansi,2019,Senior,2.24,Active,None,18,Female,Palembang
+STUD0673,Student_673,Fakultas Hukum,Manajemen,2022,Sophomore,2.17,Active,None,24,Male,Semarang
+STUD0674,Student_674,Fakultas Sastra,Sistem Informasi,2022,Freshman,2.4,Inactive,None,22,Male,Medan
+STUD0675,Student_675,Fakultas Sastra,Manajemen,2019,Junior,3.64,Active,Academic,23,Male,Bandung
+STUD0676,Student_676,Fakultas Kedokteran,Ilmu Hukum,2018,Freshman,2.92,Active,None,22,Male,Palembang
+STUD0677,Student_677,Fakultas Ilmu Komputer,Manajemen,2023,Junior,2.81,Active,None,21,Female,Makassar
+STUD0678,Student_678,Fakultas Teknik,Sastra Inggris,2019,Junior,3.16,Active,Academic,18,Female,Surabaya
+STUD0679,Student_679,Fakultas Ekonomi,Sistem Informasi,2019,Freshman,1.82,Active,Academic,18,Male,Yogyakarta
+STUD0680,Student_680,Fakultas Hukum,Sistem Informasi,2023,Junior,2.7,Graduated,None,22,Female,Bandung
+STUD0681,Student_681,Fakultas Teknik,Teknik Elektro,2021,Sophomore,2.85,Active,None,23,Female,Medan
+STUD0682,Student_682,Fakultas Ilmu Komputer,Sistem Informasi,2020,Junior,2.99,Active,None,20,Female,Yogyakarta
+STUD0683,Student_683,Fakultas Hukum,Sistem Informasi,2018,Sophomore,3.26,Active,None,19,Female,Bandung
+STUD0684,Student_684,Fakultas Ilmu Komputer,Ilmu Hukum,2023,Freshman,2.58,Active,None,23,Female,Denpasar
+STUD0685,Student_685,Fakultas Hukum,Akuntansi,2023,Freshman,3.05,Active,None,23,Female,Denpasar
+STUD0686,Student_686,Fakultas Teknik,Manajemen,2019,Freshman,2.43,Active,Sports,18,Male,Palembang
+STUD0687,Student_687,Fakultas Sastra,Ilmu Hukum,2019,Junior,3.58,Active,None,20,Female,Yogyakarta
+STUD0688,Student_688,Fakultas Ekonomi,Ilmu Hukum,2018,Junior,3.43,Active,Sports,19,Male,Banjarmasin
+STUD0689,Student_689,Fakultas Teknik,Teknik Informatika,2020,Sophomore,3.15,Active,Academic,22,Male,Semarang
+STUD0690,Student_690,Fakultas Hukum,Teknik Informatika,2020,Junior,2.83,Active,None,21,Male,Jakarta
+STUD0691,Student_691,Fakultas Sastra,Manajemen,2018,Junior,3.18,Active,None,21,Female,Medan
+STUD0692,Student_692,Fakultas Hukum,Manajemen,2019,Junior,2.26,Active,None,22,Male,Denpasar
+STUD0693,Student_693,Fakultas Ilmu Komputer,Teknik Informatika,2018,Junior,2.47,Active,None,20,Female,Banjarmasin
+STUD0694,Student_694,Fakultas Teknik,Ilmu Hukum,2020,Junior,3.19,Inactive,Sports,20,Male,Denpasar
+STUD0695,Student_695,Fakultas Ekonomi,Ilmu Hukum,2022,Senior,2.47,Active,None,20,Female,Makassar
+STUD0696,Student_696,Fakultas Hukum,Teknik Informatika,2020,Sophomore,3.51,Active,Need-based,24,Male,Semarang
+STUD0697,Student_697,Fakultas Ekonomi,Sastra Inggris,2022,Senior,2.88,Active,None,18,Female,Denpasar
+STUD0698,Student_698,Fakultas Ilmu Komputer,Ilmu Hukum,2023,Senior,2.8,Active,None,22,Male,Medan
+STUD0699,Student_699,Fakultas Ekonomi,Kedokteran,2020,Sophomore,2.76,Active,Need-based,24,Female,Yogyakarta
+STUD0700,Student_700,Fakultas Teknik,Teknik Informatika,2023,Sophomore,2.14,Active,Academic,21,Male,Banjarmasin
+STUD0701,Student_701,Fakultas Hukum,Ilmu Hukum,2019,Freshman,2.94,Active,None,18,Female,Palembang
+STUD0702,Student_702,Fakultas Ekonomi,Akuntansi,2021,Sophomore,3.86,Inactive,None,22,Male,Yogyakarta
+STUD0703,Student_703,Fakultas Ilmu Komputer,Manajemen,2019,Senior,2.91,Active,None,21,Male,Yogyakarta
+STUD0704,Student_704,Fakultas Ekonomi,Akuntansi,2021,Senior,2.96,Active,Need-based,22,Male,Palembang
+STUD0705,Student_705,Fakultas Hukum,Sistem Informasi,2022,Sophomore,3.52,Active,None,24,Female,Makassar
+STUD0706,Student_706,Fakultas Teknik,Sistem Informasi,2022,Freshman,2.87,Active,None,22,Female,Jakarta
+STUD0707,Student_707,Fakultas Teknik,Kedokteran,2018,Sophomore,3.24,Graduated,Need-based,22,Female,Makassar
+STUD0708,Student_708,Fakultas Teknik,Akuntansi,2019,Junior,3.4,Active,None,22,Male,Palembang
+STUD0709,Student_709,Fakultas Ekonomi,Sistem Informasi,2023,Junior,3.58,Inactive,Sports,20,Female,Banjarmasin
+STUD0710,Student_710,Fakultas Ilmu Komputer,Sistem Informasi,2018,Sophomore,2.36,Active,None,21,Male,Makassar
+STUD0711,Student_711,Fakultas Teknik,Manajemen,2020,Sophomore,2.74,Inactive,None,18,Female,Palembang
+STUD0712,Student_712,Fakultas Sastra,Teknik Informatika,2023,Junior,2.69,Active,Academic,24,Male,Denpasar
+STUD0713,Student_713,Fakultas Teknik,Sistem Informasi,2023,Freshman,2.65,Active,None,23,Female,Surabaya
+STUD0714,Student_714,Fakultas Ilmu Komputer,Sastra Inggris,2021,Freshman,3.14,Active,Academic,24,Male,Surabaya
+STUD0715,Student_715,Fakultas Teknik,Kedokteran,2023,Sophomore,1.87,Active,None,18,Female,Yogyakarta
+STUD0716,Student_716,Fakultas Hukum,Manajemen,2020,Sophomore,3.04,Active,Sports,24,Female,Medan
+STUD0717,Student_717,Fakultas Sastra,Sastra Inggris,2018,Sophomore,2.18,Graduated,None,18,Male,Makassar
+STUD0718,Student_718,Fakultas Teknik,Sistem Informasi,2021,Freshman,2.91,Active,Academic,21,Male,Yogyakarta
+STUD0719,Student_719,Fakultas Ilmu Komputer,Akuntansi,2023,Senior,2.9,Active,Academic,20,Male,Palembang
+STUD0720,Student_720,Fakultas Kedokteran,Teknik Elektro,2021,Freshman,3.52,Active,None,21,Male,Yogyakarta
+STUD0721,Student_721,Fakultas Hukum,Sastra Inggris,2018,Freshman,3.12,Active,None,24,Female,Banjarmasin
+STUD0722,Student_722,Fakultas Sastra,Akuntansi,2019,Senior,2.79,Inactive,None,18,Female,Denpasar
+STUD0723,Student_723,Fakultas Sastra,Ilmu Hukum,2023,Junior,3.36,Active,Need-based,20,Female,Banjarmasin
+STUD0724,Student_724,Fakultas Sastra,Akuntansi,2020,Sophomore,3.37,Graduated,None,20,Female,Medan
+STUD0725,Student_725,Fakultas Kedokteran,Ilmu Hukum,2018,Freshman,3.33,Active,None,24,Male,Yogyakarta
+STUD0726,Student_726,Fakultas Kedokteran,Manajemen,2023,Senior,2.15,Graduated,Sports,23,Female,Yogyakarta
+STUD0727,Student_727,Fakultas Ekonomi,Kedokteran,2021,Freshman,3.56,Active,None,19,Female,Yogyakarta
+STUD0728,Student_728,Fakultas Teknik,Teknik Informatika,2019,Junior,2.94,Active,None,24,Female,Medan
+STUD0729,Student_729,Fakultas Ekonomi,Sastra Inggris,2023,Freshman,3.26,Active,Sports,18,Male,Palembang
+STUD0730,Student_730,Fakultas Ilmu Komputer,Teknik Informatika,2019,Freshman,3.04,Active,Academic,22,Female,Jakarta
+STUD0731,Student_731,Fakultas Sastra,Sistem Informasi,2021,Sophomore,2.21,Active,None,22,Female,Makassar
+STUD0732,Student_732,Fakultas Teknik,Akuntansi,2021,Freshman,2.78,Active,None,24,Male,Semarang
+STUD0733,Student_733,Fakultas Sastra,Akuntansi,2020,Freshman,3.14,Active,Need-based,22,Female,Medan
+STUD0734,Student_734,Fakultas Sastra,Ilmu Hukum,2020,Freshman,1.99,Inactive,Academic,18,Male,Medan
+STUD0735,Student_735,Fakultas Sastra,Ilmu Hukum,2022,Junior,2.88,Active,None,21,Female,Semarang
+STUD0736,Student_736,Fakultas Sastra,Sistem Informasi,2020,Junior,2.27,Active,None,22,Male,Medan
+STUD0737,Student_737,Fakultas Sastra,Kedokteran,2020,Senior,2.86,Active,None,24,Male,Semarang
+STUD0738,Student_738,Fakultas Teknik,Kedokteran,2019,Sophomore,2.39,Active,None,23,Male,Jakarta
+STUD0739,Student_739,Fakultas Kedokteran,Teknik Informatika,2021,Sophomore,3.11,Active,None,21,Male,Semarang
+STUD0740,Student_740,Fakultas Hukum,Akuntansi,2023,Junior,4.0,Active,Need-based,19,Male,Denpasar
+STUD0741,Student_741,Fakultas Ilmu Komputer,Manajemen,2019,Junior,2.85,Active,None,21,Female,Yogyakarta
+STUD0742,Student_742,Fakultas Teknik,Teknik Elektro,2018,Freshman,2.53,Graduated,None,20,Female,Palembang
+STUD0743,Student_743,Fakultas Sastra,Sastra Inggris,2019,Senior,2.3,Inactive,None,22,Female,Makassar
+STUD0744,Student_744,Fakultas Kedokteran,Kedokteran,2019,Junior,2.9,Graduated,None,20,Female,Palembang
+STUD0745,Student_745,Fakultas Hukum,Teknik Informatika,2022,Freshman,2.4,Active,None,20,Male,Banjarmasin
+STUD0746,Student_746,Fakultas Hukum,Teknik Elektro,2021,Junior,2.11,Active,None,24,Female,Semarang
+STUD0747,Student_747,Fakultas Kedokteran,Kedokteran,2018,Sophomore,3.36,Active,None,20,Female,Semarang
+STUD0748,Student_748,Fakultas Kedokteran,Manajemen,2019,Senior,2.94,Active,Sports,20,Male,Medan
+STUD0749,Student_749,Fakultas Hukum,Sastra Inggris,2020,Senior,3.67,Active,None,19,Male,Surabaya
+STUD0750,Student_750,Fakultas Ilmu Komputer,Teknik Informatika,2020,Junior,3.13,Active,None,22,Male,Banjarmasin
+STUD0751,Student_751,Fakultas Kedokteran,Sistem Informasi,2023,Junior,2.46,Active,None,20,Female,Medan
+STUD0752,Student_752,Fakultas Kedokteran,Kedokteran,2019,Freshman,2.68,Active,Need-based,24,Female,Denpasar
+STUD0753,Student_753,Fakultas Kedokteran,Kedokteran,2020,Senior,3.42,Active,Academic,20,Male,Jakarta
+STUD0754,Student_754,Fakultas Hukum,Akuntansi,2021,Freshman,2.86,Active,None,22,Male,Bandung
+STUD0755,Student_755,Fakultas Sastra,Teknik Elektro,2018,Freshman,3.12,Active,None,23,Female,Surabaya
+STUD0756,Student_756,Fakultas Ekonomi,Teknik Informatika,2023,Sophomore,2.05,Active,None,23,Male,Makassar
+STUD0757,Student_757,Fakultas Sastra,Manajemen,2019,Junior,1.97,Active,None,19,Female,Yogyakarta
+STUD0758,Student_758,Fakultas Hukum,Akuntansi,2020,Freshman,2.43,Active,Need-based,21,Male,Denpasar
+STUD0759,Student_759,Fakultas Kedokteran,Akuntansi,2021,Freshman,3.01,Active,Sports,22,Male,Palembang
+STUD0760,Student_760,Fakultas Hukum,Sistem Informasi,2022,Sophomore,3.56,Active,Need-based,21,Female,Banjarmasin
+STUD0761,Student_761,Fakultas Teknik,Teknik Elektro,2020,Sophomore,2.98,Active,Need-based,24,Female,Denpasar
+STUD0762,Student_762,Fakultas Ekonomi,Teknik Informatika,2021,Senior,3.34,Active,None,24,Female,Bandung
+STUD0763,Student_763,Fakultas Ilmu Komputer,Kedokteran,2020,Sophomore,3.89,Active,None,21,Female,Yogyakarta
+STUD0764,Student_764,Fakultas Hukum,Manajemen,2018,Junior,2.59,Active,None,24,Male,Palembang
+STUD0765,Student_765,Fakultas Ilmu Komputer,Ilmu Hukum,2019,Sophomore,3.17,Active,None,23,Male,Palembang
+STUD0766,Student_766,Fakultas Teknik,Manajemen,2021,Senior,3.37,Active,Need-based,19,Female,Jakarta
+STUD0767,Student_767,Fakultas Ekonomi,Ilmu Hukum,2023,Sophomore,2.93,Active,Sports,22,Male,Palembang
+STUD0768,Student_768,Fakultas Ekonomi,Sistem Informasi,2023,Freshman,2.97,Active,None,24,Male,Jakarta
+STUD0769,Student_769,Fakultas Kedokteran,Manajemen,2018,Senior,2.27,Active,None,21,Female,Semarang
+STUD0770,Student_770,Fakultas Hukum,Sistem Informasi,2023,Sophomore,2.87,Active,None,21,Female,Denpasar
+STUD0771,Student_771,Fakultas Sastra,Sistem Informasi,2023,Freshman,3.31,Active,Academic,18,Female,Jakarta
+STUD0772,Student_772,Fakultas Sastra,Sistem Informasi,2022,Sophomore,2.32,Active,Need-based,19,Male,Bandung
+STUD0773,Student_773,Fakultas Hukum,Teknik Informatika,2019,Sophomore,2.79,Graduated,Need-based,18,Male,Denpasar
+STUD0774,Student_774,Fakultas Hukum,Kedokteran,2018,Senior,2.81,Active,None,19,Male,Makassar
+STUD0775,Student_775,Fakultas Kedokteran,Ilmu Hukum,2019,Freshman,3.95,Graduated,Need-based,21,Male,Palembang
+STUD0776,Student_776,Fakultas Ilmu Komputer,Ilmu Hukum,2022,Junior,2.82,Active,None,21,Male,Banjarmasin
+STUD0777,Student_777,Fakultas Ilmu Komputer,Akuntansi,2023,Junior,2.92,Active,None,21,Female,Semarang
+STUD0778,Student_778,Fakultas Ilmu Komputer,Ilmu Hukum,2022,Freshman,3.55,Active,None,20,Male,Surabaya
+STUD0779,Student_779,Fakultas Ilmu Komputer,Manajemen,2019,Junior,2.51,Active,Sports,22,Male,Yogyakarta
+STUD0780,Student_780,Fakultas Ekonomi,Akuntansi,2018,Junior,3.97,Active,None,18,Female,Bandung
+STUD0781,Student_781,Fakultas Teknik,Akuntansi,2019,Freshman,3.13,Active,Academic,21,Male,Makassar
+STUD0782,Student_782,Fakultas Ekonomi,Teknik Informatika,2021,Senior,3.4,Inactive,Need-based,23,Female,Bandung
+STUD0783,Student_783,Fakultas Kedokteran,Teknik Elektro,2021,Sophomore,3.43,Inactive,Academic,20,Female,Banjarmasin
+STUD0784,Student_784,Fakultas Hukum,Sastra Inggris,2018,Senior,2.13,Active,Need-based,19,Female,Medan
+STUD0785,Student_785,Fakultas Ilmu Komputer,Sastra Inggris,2023,Sophomore,2.68,Active,None,21,Female,Semarang
+STUD0786,Student_786,Fakultas Hukum,Manajemen,2018,Freshman,2.84,Active,None,21,Male,Banjarmasin
+STUD0787,Student_787,Fakultas Teknik,Akuntansi,2023,Freshman,3.18,Inactive,None,22,Female,Palembang
+STUD0788,Student_788,Fakultas Kedokteran,Sastra Inggris,2023,Freshman,3.4,Active,None,19,Female,Denpasar
+STUD0789,Student_789,Fakultas Sastra,Sistem Informasi,2020,Freshman,2.84,Active,Sports,20,Female,Makassar
+STUD0790,Student_790,Fakultas Kedokteran,Akuntansi,2022,Senior,2.4,Active,None,19,Male,Yogyakarta
+STUD0791,Student_791,Fakultas Kedokteran,Manajemen,2020,Sophomore,3.15,Active,None,21,Male,Semarang
+STUD0792,Student_792,Fakultas Hukum,Manajemen,2019,Sophomore,2.75,Inactive,None,23,Male,Makassar
+STUD0793,Student_793,Fakultas Ekonomi,Teknik Elektro,2019,Sophomore,2.79,Active,Academic,24,Female,Semarang
+STUD0794,Student_794,Fakultas Ekonomi,Kedokteran,2021,Junior,2.96,Active,Sports,21,Female,Banjarmasin
+STUD0795,Student_795,Fakultas Ekonomi,Kedokteran,2020,Senior,3.87,Active,None,22,Male,Banjarmasin
+STUD0796,Student_796,Fakultas Kedokteran,Kedokteran,2018,Junior,3.17,Active,None,20,Male,Bandung
+STUD0797,Student_797,Fakultas Sastra,Akuntansi,2021,Senior,3.08,Inactive,None,23,Male,Bandung
+STUD0798,Student_798,Fakultas Sastra,Kedokteran,2019,Sophomore,3.18,Active,None,20,Female,Semarang
+STUD0799,Student_799,Fakultas Ilmu Komputer,Akuntansi,2022,Sophomore,1.99,Graduated,None,22,Female,Bandung
+STUD0800,Student_800,Fakultas Ilmu Komputer,Manajemen,2022,Freshman,2.67,Graduated,None,22,Male,Banjarmasin
+STUD0801,Student_801,Fakultas Sastra,Kedokteran,2018,Sophomore,3.29,Active,None,18,Female,Bandung
+STUD0802,Student_802,Fakultas Sastra,Akuntansi,2023,Senior,3.07,Active,None,19,Female,Surabaya
+STUD0803,Student_803,Fakultas Teknik,Kedokteran,2023,Freshman,2.62,Active,None,24,Female,Palembang
+STUD0804,Student_804,Fakultas Sastra,Sastra Inggris,2018,Junior,2.67,Active,None,19,Female,Bandung
+STUD0805,Student_805,Fakultas Teknik,Teknik Informatika,2023,Freshman,2.7,Active,Academic,24,Female,Yogyakarta
+STUD0806,Student_806,Fakultas Hukum,Sastra Inggris,2021,Senior,3.49,Active,None,18,Female,Palembang
+STUD0807,Student_807,Fakultas Teknik,Sastra Inggris,2023,Senior,2.7,Active,None,18,Male,Yogyakarta
+STUD0808,Student_808,Fakultas Hukum,Kedokteran,2018,Senior,2.64,Inactive,None,24,Female,Denpasar
+STUD0809,Student_809,Fakultas Ilmu Komputer,Ilmu Hukum,2021,Senior,2.94,Active,Need-based,22,Male,Medan
+STUD0810,Student_810,Fakultas Hukum,Kedokteran,2022,Freshman,3.92,Active,None,18,Male,Palembang
+STUD0811,Student_811,Fakultas Kedokteran,Sistem Informasi,2023,Senior,2.27,Active,None,24,Male,Makassar
+STUD0812,Student_812,Fakultas Ilmu Komputer,Ilmu Hukum,2018,Freshman,3.58,Active,None,23,Male,Surabaya
+STUD0813,Student_813,Fakultas Ekonomi,Teknik Elektro,2022,Junior,2.78,Active,None,22,Male,Palembang
+STUD0814,Student_814,Fakultas Sastra,Akuntansi,2022,Sophomore,3.5,Active,None,23,Male,Jakarta
+STUD0815,Student_815,Fakultas Ekonomi,Teknik Informatika,2019,Freshman,4.0,Active,None,21,Female,Makassar
+STUD0816,Student_816,Fakultas Hukum,Kedokteran,2019,Sophomore,3.6,Active,None,21,Female,Palembang
+STUD0817,Student_817,Fakultas Kedokteran,Teknik Elektro,2018,Senior,3.61,Graduated,Academic,18,Male,Semarang
+STUD0818,Student_818,Fakultas Teknik,Manajemen,2020,Junior,2.44,Active,Academic,18,Female,Surabaya
+STUD0819,Student_819,Fakultas Ilmu Komputer,Ilmu Hukum,2021,Junior,3.76,Active,None,23,Female,Palembang
+STUD0820,Student_820,Fakultas Hukum,Teknik Elektro,2020,Sophomore,2.87,Active,None,22,Female,Bandung
+STUD0821,Student_821,Fakultas Ekonomi,Manajemen,2023,Sophomore,3.21,Active,None,24,Male,Bandung
+STUD0822,Student_822,Fakultas Ilmu Komputer,Ilmu Hukum,2019,Freshman,2.76,Inactive,None,23,Female,Denpasar
+STUD0823,Student_823,Fakultas Teknik,Kedokteran,2018,Junior,2.26,Active,None,19,Female,Palembang
+STUD0824,Student_824,Fakultas Sastra,Teknik Elektro,2022,Freshman,3.21,Active,None,22,Male,Bandung
+STUD0825,Student_825,Fakultas Hukum,Teknik Informatika,2023,Junior,2.73,Inactive,Sports,24,Male,Makassar
+STUD0826,Student_826,Fakultas Teknik,Manajemen,2019,Senior,2.55,Active,Need-based,21,Male,Medan
+STUD0827,Student_827,Fakultas Kedokteran,Teknik Elektro,2018,Freshman,3.58,Inactive,None,22,Female,Surabaya
+STUD0828,Student_828,Fakultas Kedokteran,Teknik Informatika,2019,Junior,2.55,Active,None,20,Male,Makassar
+STUD0829,Student_829,Fakultas Hukum,Sistem Informasi,2023,Junior,3.54,Active,None,19,Female,Yogyakarta
+STUD0830,Student_830,Fakultas Hukum,Manajemen,2018,Junior,2.71,Active,Need-based,22,Male,Banjarmasin
+STUD0831,Student_831,Fakultas Sastra,Manajemen,2023,Sophomore,2.4,Active,None,21,Female,Palembang
+STUD0832,Student_832,Fakultas Hukum,Manajemen,2019,Senior,3.21,Active,None,22,Female,Yogyakarta
+STUD0833,Student_833,Fakultas Teknik,Teknik Elektro,2018,Sophomore,3.4,Inactive,None,19,Female,Bandung
+STUD0834,Student_834,Fakultas Ilmu Komputer,Akuntansi,2023,Senior,3.57,Active,None,18,Male,Bandung
+STUD0835,Student_835,Fakultas Kedokteran,Teknik Elektro,2018,Senior,2.71,Active,None,21,Female,Palembang
+STUD0836,Student_836,Fakultas Ekonomi,Teknik Informatika,2018,Senior,3.46,Active,None,22,Female,Jakarta
+STUD0837,Student_837,Fakultas Teknik,Manajemen,2023,Senior,3.49,Active,None,21,Male,Surabaya
+STUD0838,Student_838,Fakultas Hukum,Sastra Inggris,2022,Sophomore,3.21,Active,None,19,Female,Yogyakarta
+STUD0839,Student_839,Fakultas Hukum,Teknik Elektro,2018,Junior,3.42,Active,Academic,24,Female,Banjarmasin
+STUD0840,Student_840,Fakultas Kedokteran,Ilmu Hukum,2021,Freshman,2.9,Active,None,20,Male,Jakarta
+STUD0841,Student_841,Fakultas Ekonomi,Akuntansi,2018,Freshman,2.81,Active,Sports,20,Female,Palembang
+STUD0842,Student_842,Fakultas Kedokteran,Sistem Informasi,2019,Junior,2.83,Active,Academic,19,Male,Palembang
+STUD0843,Student_843,Fakultas Hukum,Akuntansi,2020,Sophomore,2.09,Active,None,19,Female,Yogyakarta
+STUD0844,Student_844,Fakultas Sastra,Ilmu Hukum,2021,Senior,3.05,Active,None,24,Male,Banjarmasin
+STUD0845,Student_845,Fakultas Ilmu Komputer,Teknik Elektro,2018,Junior,2.54,Active,Need-based,23,Female,Denpasar
+STUD0846,Student_846,Fakultas Ilmu Komputer,Sistem Informasi,2020,Sophomore,2.31,Active,Need-based,20,Female,Denpasar
+STUD0847,Student_847,Fakultas Ekonomi,Akuntansi,2021,Junior,2.66,Inactive,None,22,Female,Makassar
+STUD0848,Student_848,Fakultas Hukum,Ilmu Hukum,2020,Sophomore,3.22,Inactive,None,20,Male,Denpasar
+STUD0849,Student_849,Fakultas Hukum,Kedokteran,2022,Freshman,2.88,Active,Sports,19,Male,Semarang
+STUD0850,Student_850,Fakultas Sastra,Manajemen,2020,Freshman,3.71,Graduated,None,21,Male,Jakarta
+STUD0851,Student_851,Fakultas Ekonomi,Akuntansi,2021,Junior,2.81,Active,None,19,Male,Semarang
+STUD0852,Student_852,Fakultas Hukum,Teknik Elektro,2018,Senior,3.11,Active,None,21,Female,Medan
+STUD0853,Student_853,Fakultas Kedokteran,Sastra Inggris,2023,Freshman,2.75,Graduated,None,21,Male,Jakarta
+STUD0854,Student_854,Fakultas Ilmu Komputer,Teknik Informatika,2018,Senior,3.55,Active,None,23,Male,Yogyakarta
+STUD0855,Student_855,Fakultas Ekonomi,Teknik Elektro,2018,Senior,2.76,Active,None,22,Male,Denpasar
+STUD0856,Student_856,Fakultas Hukum,Sistem Informasi,2020,Senior,3.32,Active,None,22,Female,Bandung
+STUD0857,Student_857,Fakultas Sastra,Kedokteran,2020,Sophomore,3.98,Active,None,21,Male,Jakarta
+STUD0858,Student_858,Fakultas Ekonomi,Akuntansi,2022,Junior,2.57,Active,Academic,18,Male,Palembang
+STUD0859,Student_859,Fakultas Kedokteran,Teknik Informatika,2022,Senior,2.6,Active,Academic,23,Female,Bandung
+STUD0860,Student_860,Fakultas Kedokteran,Kedokteran,2020,Senior,2.26,Active,None,21,Female,Banjarmasin
+STUD0861,Student_861,Fakultas Kedokteran,Sastra Inggris,2021,Sophomore,3.3,Active,None,18,Female,Semarang
+STUD0862,Student_862,Fakultas Ekonomi,Teknik Elektro,2021,Senior,2.57,Inactive,Need-based,24,Female,Banjarmasin
+STUD0863,Student_863,Fakultas Ekonomi,Sistem Informasi,2020,Senior,3.17,Active,None,23,Male,Jakarta
+STUD0864,Student_864,Fakultas Ilmu Komputer,Sastra Inggris,2021,Sophomore,3.56,Active,None,24,Male,Bandung
+STUD0865,Student_865,Fakultas Ilmu Komputer,Teknik Informatika,2018,Senior,3.82,Active,None,19,Female,Jakarta
+STUD0866,Student_866,Fakultas Hukum,Akuntansi,2021,Sophomore,2.61,Active,None,24,Male,Banjarmasin
+STUD0867,Student_867,Fakultas Sastra,Sastra Inggris,2019,Freshman,3.54,Active,Academic,18,Female,Surabaya
+STUD0868,Student_868,Fakultas Sastra,Manajemen,2023,Senior,2.79,Active,None,18,Male,Yogyakarta
+STUD0869,Student_869,Fakultas Hukum,Akuntansi,2021,Freshman,2.67,Active,Need-based,18,Male,Banjarmasin
+STUD0870,Student_870,Fakultas Ilmu Komputer,Sistem Informasi,2018,Freshman,2.63,Graduated,None,18,Female,Banjarmasin
+STUD0871,Student_871,Fakultas Ilmu Komputer,Sastra Inggris,2019,Sophomore,2.69,Active,None,18,Male,Palembang
+STUD0872,Student_872,Fakultas Ekonomi,Teknik Elektro,2020,Senior,1.96,Active,None,23,Male,Palembang
+STUD0873,Student_873,Fakultas Teknik,Manajemen,2019,Freshman,2.9,Graduated,Need-based,21,Male,Surabaya
+STUD0874,Student_874,Fakultas Ilmu Komputer,Teknik Elektro,2020,Sophomore,3.54,Active,None,21,Male,Jakarta
+STUD0875,Student_875,Fakultas Ekonomi,Kedokteran,2018,Senior,2.34,Active,None,22,Female,Banjarmasin
+STUD0876,Student_876,Fakultas Ekonomi,Teknik Informatika,2019,Senior,3.04,Active,None,24,Female,Denpasar
+STUD0877,Student_877,Fakultas Ekonomi,Sastra Inggris,2018,Junior,3.84,Graduated,None,21,Female,Makassar
+STUD0878,Student_878,Fakultas Kedokteran,Manajemen,2022,Sophomore,2.2,Graduated,None,21,Male,Yogyakarta
+STUD0879,Student_879,Fakultas Kedokteran,Akuntansi,2018,Senior,2.64,Active,Sports,21,Female,Semarang
+STUD0880,Student_880,Fakultas Teknik,Kedokteran,2018,Freshman,2.76,Active,Academic,23,Female,Palembang
+STUD0881,Student_881,Fakultas Teknik,Sistem Informasi,2022,Senior,3.44,Active,None,21,Female,Yogyakarta
+STUD0882,Student_882,Fakultas Ilmu Komputer,Teknik Informatika,2022,Junior,3.89,Inactive,None,22,Male,Yogyakarta
+STUD0883,Student_883,Fakultas Teknik,Teknik Informatika,2019,Freshman,2.35,Graduated,None,20,Male,Banjarmasin
+STUD0884,Student_884,Fakultas Sastra,Akuntansi,2023,Sophomore,3.25,Inactive,Need-based,23,Female,Bandung
+STUD0885,Student_885,Fakultas Sastra,Sistem Informasi,2018,Freshman,2.92,Inactive,Academic,23,Male,Makassar
+STUD0886,Student_886,Fakultas Ilmu Komputer,Teknik Informatika,2019,Junior,3.76,Active,None,23,Female,Semarang
+STUD0887,Student_887,Fakultas Teknik,Teknik Elektro,2019,Freshman,2.72,Inactive,None,19,Female,Jakarta
+STUD0888,Student_888,Fakultas Teknik,Ilmu Hukum,2020,Sophomore,3.38,Active,None,22,Female,Jakarta
+STUD0889,Student_889,Fakultas Hukum,Sistem Informasi,2021,Freshman,3.13,Active,Academic,21,Female,Yogyakarta
+STUD0890,Student_890,Fakultas Teknik,Ilmu Hukum,2018,Sophomore,3.09,Active,None,20,Male,Jakarta
+STUD0891,Student_891,Fakultas Hukum,Akuntansi,2020,Senior,3.51,Active,Academic,21,Female,Palembang
+STUD0892,Student_892,Fakultas Ilmu Komputer,Teknik Informatika,2022,Senior,2.33,Active,None,20,Female,Jakarta
+STUD0893,Student_893,Fakultas Ekonomi,Akuntansi,2021,Sophomore,3.13,Active,Sports,24,Female,Banjarmasin
+STUD0894,Student_894,Fakultas Hukum,Sistem Informasi,2023,Junior,2.98,Graduated,None,19,Male,Palembang
+STUD0895,Student_895,Fakultas Teknik,Manajemen,2022,Senior,2.19,Active,Need-based,19,Female,Palembang
+STUD0896,Student_896,Fakultas Teknik,Sastra Inggris,2020,Junior,2.76,Active,Sports,18,Female,Bandung
+STUD0897,Student_897,Fakultas Teknik,Sistem Informasi,2022,Freshman,2.91,Active,None,18,Female,Palembang
+STUD0898,Student_898,Fakultas Ekonomi,Ilmu Hukum,2021,Senior,3.2,Active,Academic,23,Male,Medan
+STUD0899,Student_899,Fakultas Ekonomi,Sistem Informasi,2021,Junior,2.99,Active,None,24,Female,Banjarmasin
+STUD0900,Student_900,Fakultas Kedokteran,Manajemen,2020,Senior,2.99,Active,Need-based,18,Male,Yogyakarta
+STUD0901,Student_901,Fakultas Ekonomi,Sastra Inggris,2021,Senior,3.21,Active,Sports,24,Female,Denpasar
+STUD0902,Student_902,Fakultas Ekonomi,Kedokteran,2023,Sophomore,3.21,Active,Need-based,19,Female,Banjarmasin
+STUD0903,Student_903,Fakultas Hukum,Teknik Informatika,2023,Sophomore,3.06,Active,Need-based,24,Male,Makassar
+STUD0904,Student_904,Fakultas Ekonomi,Manajemen,2021,Sophomore,3.06,Active,None,20,Female,Jakarta
+STUD0905,Student_905,Fakultas Teknik,Teknik Informatika,2021,Sophomore,2.6,Active,None,23,Female,Palembang
+STUD0906,Student_906,Fakultas Kedokteran,Manajemen,2020,Sophomore,3.19,Active,Need-based,24,Female,Medan
+STUD0907,Student_907,Fakultas Sastra,Sastra Inggris,2018,Freshman,3.05,Active,None,24,Male,Medan
+STUD0908,Student_908,Fakultas Ilmu Komputer,Sistem Informasi,2020,Freshman,2.9,Active,None,22,Male,Medan
+STUD0909,Student_909,Fakultas Teknik,Kedokteran,2021,Junior,3.15,Active,None,21,Female,Surabaya
+STUD0910,Student_910,Fakultas Hukum,Sistem Informasi,2019,Sophomore,2.97,Inactive,Academic,24,Male,Medan
+STUD0911,Student_911,Fakultas Kedokteran,Sistem Informasi,2019,Freshman,3.53,Active,None,24,Male,Yogyakarta
+STUD0912,Student_912,Fakultas Kedokteran,Kedokteran,2023,Sophomore,2.54,Active,None,23,Female,Banjarmasin
+STUD0913,Student_913,Fakultas Kedokteran,Kedokteran,2022,Junior,2.62,Active,Academic,24,Female,Jakarta
+STUD0914,Student_914,Fakultas Teknik,Teknik Elektro,2018,Junior,2.82,Active,None,19,Female,Yogyakarta
+STUD0915,Student_915,Fakultas Hukum,Akuntansi,2021,Sophomore,3.09,Active,None,20,Male,Palembang
+STUD0916,Student_916,Fakultas Hukum,Teknik Informatika,2021,Freshman,2.58,Inactive,None,19,Female,Yogyakarta
+STUD0917,Student_917,Fakultas Kedokteran,Akuntansi,2018,Freshman,3.11,Active,Need-based,18,Female,Bandung
+STUD0918,Student_918,Fakultas Teknik,Akuntansi,2021,Senior,2.15,Active,None,18,Male,Yogyakarta
+STUD0919,Student_919,Fakultas Sastra,Sastra Inggris,2023,Senior,2.42,Active,None,18,Female,Bandung
+STUD0920,Student_920,Fakultas Hukum,Manajemen,2018,Senior,1.93,Graduated,None,21,Female,Bandung
+STUD0921,Student_921,Fakultas Kedokteran,Akuntansi,2022,Senior,3.65,Active,None,20,Male,Banjarmasin
+STUD0922,Student_922,Fakultas Sastra,Teknik Elektro,2021,Senior,3.36,Active,None,20,Female,Makassar
+STUD0923,Student_923,Fakultas Ilmu Komputer,Ilmu Hukum,2022,Senior,2.77,Active,Need-based,18,Female,Surabaya
+STUD0924,Student_924,Fakultas Kedokteran,Ilmu Hukum,2018,Freshman,3.16,Graduated,None,23,Male,Makassar
+STUD0925,Student_925,Fakultas Teknik,Sistem Informasi,2019,Senior,3.07,Active,Sports,21,Male,Jakarta
+STUD0926,Student_926,Fakultas Kedokteran,Akuntansi,2022,Junior,2.95,Active,Academic,22,Female,Semarang
+STUD0927,Student_927,Fakultas Ilmu Komputer,Teknik Elektro,2021,Senior,3.05,Active,None,22,Female,Medan
+STUD0928,Student_928,Fakultas Teknik,Akuntansi,2023,Senior,3.58,Active,None,24,Male,Bandung
+STUD0929,Student_929,Fakultas Hukum,Teknik Informatika,2022,Freshman,3.26,Active,Academic,23,Female,Banjarmasin
+STUD0930,Student_930,Fakultas Ekonomi,Sastra Inggris,2021,Freshman,3.14,Graduated,None,18,Male,Denpasar
+STUD0931,Student_931,Fakultas Ekonomi,Manajemen,2019,Junior,2.99,Active,None,18,Female,Semarang
+STUD0932,Student_932,Fakultas Sastra,Sastra Inggris,2018,Freshman,3.27,Inactive,None,21,Male,Semarang
+STUD0933,Student_933,Fakultas Teknik,Teknik Informatika,2020,Sophomore,3.08,Active,None,23,Female,Surabaya
+STUD0934,Student_934,Fakultas Hukum,Sastra Inggris,2023,Sophomore,3.2,Active,None,24,Female,Medan
+STUD0935,Student_935,Fakultas Hukum,Sastra Inggris,2019,Sophomore,2.5,Inactive,None,18,Male,Surabaya
+STUD0936,Student_936,Fakultas Kedokteran,Manajemen,2019,Junior,4.0,Active,None,18,Male,Banjarmasin
+STUD0937,Student_937,Fakultas Teknik,Manajemen,2021,Freshman,2.94,Active,None,22,Female,Banjarmasin
+STUD0938,Student_938,Fakultas Hukum,Teknik Informatika,2020,Senior,2.36,Active,None,24,Male,Makassar
+STUD0939,Student_939,Fakultas Hukum,Kedokteran,2023,Sophomore,2.32,Active,None,21,Female,Makassar
+STUD0940,Student_940,Fakultas Ilmu Komputer,Teknik Elektro,2018,Junior,3.07,Active,Need-based,19,Male,Palembang
+STUD0941,Student_941,Fakultas Ilmu Komputer,Kedokteran,2022,Senior,3.15,Inactive,None,19,Male,Bandung
+STUD0942,Student_942,Fakultas Kedokteran,Ilmu Hukum,2018,Sophomore,3.69,Active,Academic,18,Male,Semarang
+STUD0943,Student_943,Fakultas Ekonomi,Manajemen,2021,Senior,3.54,Active,None,23,Female,Palembang
+STUD0944,Student_944,Fakultas Kedokteran,Teknik Elektro,2019,Freshman,3.03,Graduated,None,20,Female,Semarang
+STUD0945,Student_945,Fakultas Hukum,Manajemen,2021,Senior,3.84,Active,None,21,Female,Jakarta
+STUD0946,Student_946,Fakultas Sastra,Sistem Informasi,2019,Freshman,2.75,Graduated,None,22,Female,Yogyakarta
+STUD0947,Student_947,Fakultas Ilmu Komputer,Sastra Inggris,2020,Senior,3.63,Active,None,18,Male,Denpasar
+STUD0948,Student_948,Fakultas Teknik,Manajemen,2023,Sophomore,3.44,Active,Need-based,20,Female,Bandung
+STUD0949,Student_949,Fakultas Sastra,Teknik Elektro,2023,Senior,3.04,Active,None,24,Female,Medan
+STUD0950,Student_950,Fakultas Ilmu Komputer,Kedokteran,2023,Senior,3.03,Active,Need-based,22,Female,Palembang
+STUD0951,Student_951,Fakultas Teknik,Teknik Elektro,2022,Sophomore,2.56,Inactive,Academic,24,Female,Makassar
+STUD0952,Student_952,Fakultas Hukum,Manajemen,2019,Senior,2.76,Active,None,18,Female,Semarang
+STUD0953,Student_953,Fakultas Ekonomi,Kedokteran,2022,Senior,3.12,Active,Need-based,19,Male,Surabaya
+STUD0954,Student_954,Fakultas Hukum,Ilmu Hukum,2021,Sophomore,3.38,Active,Academic,24,Female,Banjarmasin
+STUD0955,Student_955,Fakultas Teknik,Sastra Inggris,2018,Senior,3.1,Active,Academic,21,Male,Yogyakarta
+STUD0956,Student_956,Fakultas Teknik,Teknik Elektro,2018,Freshman,2.65,Active,Academic,20,Male,Medan
+STUD0957,Student_957,Fakultas Teknik,Kedokteran,2021,Junior,3.48,Active,None,23,Male,Makassar
+STUD0958,Student_958,Fakultas Ekonomi,Sastra Inggris,2022,Sophomore,3.43,Graduated,None,22,Female,Palembang
+STUD0959,Student_959,Fakultas Teknik,Manajemen,2023,Senior,3.44,Active,None,20,Male,Makassar
+STUD0960,Student_960,Fakultas Sastra,Sastra Inggris,2023,Senior,3.53,Active,Academic,19,Male,Palembang
+STUD0961,Student_961,Fakultas Kedokteran,Akuntansi,2019,Senior,2.81,Active,None,22,Female,Semarang
+STUD0962,Student_962,Fakultas Ekonomi,Teknik Informatika,2018,Senior,2.99,Active,None,21,Female,Semarang
+STUD0963,Student_963,Fakultas Hukum,Kedokteran,2018,Senior,2.83,Active,None,24,Female,Palembang
+STUD0964,Student_964,Fakultas Hukum,Sistem Informasi,2020,Senior,2.92,Active,None,21,Female,Palembang
+STUD0965,Student_965,Fakultas Teknik,Teknik Elektro,2018,Junior,2.49,Active,None,19,Female,Makassar
+STUD0966,Student_966,Fakultas Teknik,Akuntansi,2023,Sophomore,3.05,Active,Need-based,19,Female,Medan
+STUD0967,Student_967,Fakultas Ekonomi,Manajemen,2018,Sophomore,2.64,Active,Academic,23,Male,Banjarmasin
+STUD0968,Student_968,Fakultas Ekonomi,Teknik Elektro,2021,Sophomore,3.56,Active,None,21,Male,Makassar
+STUD0969,Student_969,Fakultas Ekonomi,Teknik Elektro,2021,Sophomore,2.61,Active,None,20,Female,Yogyakarta
+STUD0970,Student_970,Fakultas Kedokteran,Kedokteran,2023,Junior,3.21,Active,Sports,18,Female,Medan
+STUD0971,Student_971,Fakultas Hukum,Teknik Informatika,2019,Sophomore,2.23,Active,Academic,18,Female,Makassar
+STUD0972,Student_972,Fakultas Kedokteran,Kedokteran,2023,Junior,1.81,Active,None,20,Female,Bandung
+STUD0973,Student_973,Fakultas Teknik,Teknik Elektro,2022,Freshman,2.96,Active,None,22,Female,Yogyakarta
+STUD0974,Student_974,Fakultas Teknik,Teknik Informatika,2019,Senior,2.36,Active,None,18,Male,Yogyakarta
+STUD0975,Student_975,Fakultas Hukum,Akuntansi,2023,Senior,2.57,Inactive,None,21,Male,Yogyakarta
+STUD0976,Student_976,Fakultas Sastra,Teknik Elektro,2020,Senior,2.86,Active,None,18,Female,Palembang
+STUD0977,Student_977,Fakultas Teknik,Manajemen,2022,Senior,3.08,Active,None,22,Female,Jakarta
+STUD0978,Student_978,Fakultas Sastra,Kedokteran,2019,Senior,2.7,Active,Need-based,18,Female,Makassar
+STUD0979,Student_979,Fakultas Sastra,Akuntansi,2023,Freshman,2.31,Active,None,19,Male,Makassar
+STUD0980,Student_980,Fakultas Ilmu Komputer,Manajemen,2020,Sophomore,3.64,Active,None,23,Female,Denpasar
+STUD0981,Student_981,Fakultas Ilmu Komputer,Ilmu Hukum,2022,Senior,4.0,Graduated,Need-based,21,Male,Palembang
+STUD0982,Student_982,Fakultas Sastra,Kedokteran,2022,Senior,3.88,Active,Academic,20,Female,Palembang
+STUD0983,Student_983,Fakultas Ilmu Komputer,Kedokteran,2023,Junior,2.77,Active,Need-based,23,Female,Jakarta
+STUD0984,Student_984,Fakultas Ilmu Komputer,Kedokteran,2021,Senior,2.93,Active,Need-based,20,Male,Medan
+STUD0985,Student_985,Fakultas Sastra,Kedokteran,2020,Senior,3.09,Inactive,None,20,Female,Bandung
+STUD0986,Student_986,Fakultas Kedokteran,Sastra Inggris,2023,Freshman,2.99,Active,None,24,Female,Bandung
+STUD0987,Student_987,Fakultas Ilmu Komputer,Manajemen,2018,Sophomore,3.38,Active,None,23,Male,Banjarmasin
+STUD0988,Student_988,Fakultas Hukum,Ilmu Hukum,2021,Freshman,3.14,Active,None,23,Male,Surabaya
+STUD0989,Student_989,Fakultas Ilmu Komputer,Ilmu Hukum,2021,Freshman,2.64,Active,None,19,Male,Semarang
+STUD0990,Student_990,Fakultas Ekonomi,Akuntansi,2019,Freshman,2.21,Active,None,19,Female,Surabaya
+STUD0991,Student_991,Fakultas Hukum,Akuntansi,2018,Junior,3.05,Active,None,23,Male,Denpasar
+STUD0992,Student_992,Fakultas Ilmu Komputer,Teknik Informatika,2022,Junior,2.94,Active,None,18,Female,Palembang
+STUD0993,Student_993,Fakultas Hukum,Teknik Elektro,2023,Freshman,3.71,Active,None,22,Male,Makassar
+STUD0994,Student_994,Fakultas Kedokteran,Teknik Informatika,2020,Freshman,3.32,Inactive,None,18,Female,Palembang
+STUD0995,Student_995,Fakultas Ilmu Komputer,Sastra Inggris,2022,Senior,3.58,Active,None,19,Female,Yogyakarta
+STUD0996,Student_996,Fakultas Teknik,Teknik Informatika,2018,Sophomore,2.38,Active,None,19,Female,Yogyakarta
+STUD0997,Student_997,Fakultas Hukum,Teknik Informatika,2019,Freshman,3.93,Active,None,18,Female,Palembang
+STUD0998,Student_998,Fakultas Ilmu Komputer,Manajemen,2022,Freshman,2.38,Graduated,None,20,Female,Jakarta
+STUD0999,Student_999,Fakultas Ekonomi,Teknik Elektro,2020,Junior,3.0,Active,None,24,Male,Surabaya
+STUD1000,Student_1000,Fakultas Ilmu Komputer,Ilmu Hukum,2018,Junior,3.09,Active,None,19,Female,Bandung
