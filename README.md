@@ -204,7 +204,12 @@ Dashboard ini menggunakan kombinasi library visualisasi untuk hasil optimal:
 
 ### 1. **KPI Metrics Cards**
 Empat metrik utama di bagian atas dashboard dengan delta indicators.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/ringkasan-data.png" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rezkamulya59-glitch/Dashboard-Universitas/main/ringkasan-data.png" 
+       alt="KPI Metrics" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
 ### 2. **Visualisasi Data - Distribusi & Tren**
 Dua visualisasi side-by-side: distribusi per fakultas dan tren tahunan.
