@@ -36,42 +36,9 @@ Dataset informasi detail fakultas dan program studi
 
 ## 🌐 Akses Dashboard
 
-### Cara Menjalankan di Lokal
-
-#### **Prasyarat**
-- Python 3.8 atau lebih tinggi
-- pip (Python package installer)
-
-#### **Langkah-langkah Instalasi**
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/username/university-dashboard.git
-   cd university-dashboard
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Jalankan aplikasi**
-   ```bash
-   streamlit run app.py
-   ```
-
-4. **Akses di browser**
-   ```
-   http://localhost:8501
-   ```
-
-### Akses Online (Deployment)
-
 Dashboard dapat diakses secara online melalui:
 
-🔗 **[Live Demo Dashboard](https://your-dashboard-url.streamlit.app)**
-
-> *Ganti URL di atas dengan link deployment Streamlit Cloud/Heroku Anda*
+🔗 **[Live Demo Dashboard](hhttps://university-dashboard-rezka.streamlit.app/)**
 
 ---
 
@@ -85,7 +52,7 @@ Dashboard Analitik Universitas adalah aplikasi visualisasi data berbasis web yan
 - 👥 **Memahami demografi mahasiswa** berdasarkan gender dan usia
 - 📉 **Mengidentifikasi pola** dalam status keaktifan mahasiswa
 
-Dashboard ini dibangun menggunakan **Streamlit** untuk antarmuka web, **Plotly** dan **Matplotlib** untuk visualisasi interaktif, serta **Pandas** untuk pengolahan data. Semua visualisasi dirancang dengan prinsip **user-friendly** dan **responsive design** agar mudah diakses dari berbagai perangkat.
+---
 
 ### 🎯 Tujuan Dashboard
 
@@ -198,7 +165,7 @@ Dashboard ini menggunakan kombinasi library visualisasi untuk hasil optimal:
 #### 4. **Horizontal Bar Chart** - Ranking
 - IPK Rata-rata per Fakultas
 - **Cocok untuk**: Membandingkan dan ranking nilai
-
+---
 
 ## 📸 Tampilan Dashboard
 
@@ -213,37 +180,70 @@ Empat metrik utama di bagian atas dashboard dengan delta indicators.
 
 ### 2. **Visualisasi Data - Distribusi & Tren**
 Dua visualisasi side-by-side: distribusi per fakultas dan tren tahunan.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/distribusi-dan-tren-mhs.png" />
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/distribusi-dan-tren-mhs.png"
+       alt="distribusi dan tren" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
 
 ### 3. **Visualisasi Data - Status Mahasiswa**
 Pie chart interaktif menampilkan proporsi status mahasiswa (Active/Graduated/Inactive).
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/status-mhs.png" />
-
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/status-mhs.png"
+       alt="status mahasiswa" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
 ### 4. **Visualisasi Data - IPK per Fakultas**
 Horizontal bar chart membandingkan IPK rata-rata antar fakultas dengan jumlah mahasiswa.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/jumlah-mhs-perprodi.png" />
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/jumlah-mhs-perprodi.png"
+       alt="distribusi dan tren" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
 
 ### 5. **Visualisasi Data - Distribusi Gender**
 Pie chart menunjukkan proporsi mahasiswa laki-laki dan perempuan.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/gender-mhs.png" />
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/gender-mhs.png"
+       alt="gender" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
-
-### 6. **Filter Sidebar**
-Sidebar dengan tiga filter utama: Tahun, Fakultas, dan Gender.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/filter-data.png" />
-
-
-### 7. **Tabel Data Mahasiswa**
+### 6. **Tabel Data Mahasiswa**
 Tabel interaktif dengan scrolling vertikal dan semua informasi mahasiswa.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/data-mhs.png" />
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/data-mhs.png"
+       alt="data mhs" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
-### 8. **Statistik & Top Program Studi**
+### 7. **Statistik & Top Program Studi**
 Statistik ringkasan dan bar chart top 5 program studi terpopuler.
-<img width="170" alt="image" src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/ringkasan-topProdi.png" />
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/ringkasan-topProdi.png"
+       alt="top prodi" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
 
+### 8. **Filter Sidebar**
+Sidebar dengan tiga filter utama: Tahun, Fakultas, dan Gender.
+<p align="center">
+  <img src="https://github.com/rezkamulya59-glitch/Dashboard-Universitas/blob/main/filter-data.png"
+       alt="filter data" 
+       width="800"
+       style="border: 2px solid #ddd; border-radius: 8px; padding: 10px;"/>
+</p>
+
+---
 
 ## 🛠️ Teknologi yang Digunakan
 
